@@ -1,0 +1,7 @@
+{
+  "keywords_include": ["data science", "machine learning", "nlp", "llm", "rag", "python", "analytics"],
+  "keywords_exclude": ["senior", "5+ years", "staff", "principal"],
+  "locations_prefer": ["India", "Remote"],
+  "min_score_to_alert": 7,
+  "max_alerts": 8
+}
