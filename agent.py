@@ -109,7 +109,9 @@ def pick_alert(state: State) -> State:
     return {**state, "alert": alert}
 
 def build_report_and_send(state: State) -> State:
-    # Telegram send (free)
+    import os
+    from datetime import datetime
+
     token = os.environ.get("TELEGRAM_BOT_TOKEN", "")
     chat_id = os.environ.get("TELEGRAM_CHAT_ID", "")
 
@@ -131,11 +133,24 @@ def build_report_and_send(state: State) -> State:
             )
 
     report = "\n".join(lines)
+
+    # Save dated digest
     os.makedirs("out", exist_ok=True)
     path = f"out/digest_{today}.md"
     with open(path, "w", encoding="utf-8") as f:
         f.write(report)
 
+    # ✅ Always update latest_report.md
+    with open("latest_report.md", "w", encoding="utf-8") as f:
+        f.write(report)
+
+    # ✅ Send email (always send daily digest)
+    send_email_via_webhook(
+        subject=f"Internship Intelligence Digest — {today}",
+        body=report
+    )
+
+    # Optional Telegram
     if token and chat_id and state["alert"]:
         import requests
         msg = "🔥 Top internship matches:\n\n" + "\n".join(
@@ -146,6 +161,9 @@ def build_report_and_send(state: State) -> State:
             json={"chat_id": chat_id, "text": msg},
             timeout=20
         )
+
+    return {**state, "report_md": report}
+        
 
     return {**state, "report_md": report}
 
@@ -165,8 +183,10 @@ def build_graph():
     g.add_edge("report_send", END)
     return g.compile()
 
-def send_email(report):
-    import os, requests
+def send_email_via_webhook(subject: str, body: str):
+    import os
+    import requests
+
     url = os.environ.get("MAIL_WEBHOOK_URL", "")
     to = os.environ.get("MAIL_TO", "")
 
@@ -177,8 +197,8 @@ def send_email(report):
         url,
         json={
             "to": to,
-            "subject": "🔥 Internship Intelligence Update",
-            "body": report
+            "subject": subject,
+            "body": body
         },
         timeout=20
     )
