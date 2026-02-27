@@ -165,6 +165,23 @@ def build_graph():
     g.add_edge("report_send", END)
     return g.compile()
 
+def send_email(report):
+    import os, requests
+    url = os.environ.get("MAIL_WEBHOOK_URL", "")
+    to = os.environ.get("MAIL_TO", "")
+
+    if not url or not to:
+        return
+
+    requests.post(
+        url,
+        json={
+            "to": to,
+            "subject": "🔥 Internship Intelligence Update",
+            "body": report
+        },
+        timeout=20
+    )
 if __name__ == "__main__":
     graph = build_graph()
     out = graph.invoke({"raw_jobs": [], "jobs": [], "ranked": [], "alert": [], "report_md": ""})
