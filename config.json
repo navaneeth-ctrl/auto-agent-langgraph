@@ -1,7 +1,25 @@
 {
-  "keywords_include": ["data science", "machine learning", "nlp", "llm", "rag", "python", "analytics"],
-  "keywords_exclude": ["senior", "5+ years", "staff", "principal"],
+  "keywords_include": [
+    "intern",
+    "internship",
+    "trainee",
+    "data science",
+    "machine learning",
+    "nlp",
+    "llm",
+    "analytics",
+    "python"
+  ],
+  "keywords_exclude": [
+    "senior",
+    "lead",
+    "principal",
+    "manager",
+    "5+ years",
+    "7+ years",
+    "staff"
+  ],
   "locations_prefer": ["India", "Remote"],
-  "min_score_to_alert": 7,
-  "max_alerts": 8
+  "min_score_to_alert": 6,
+  "max_alerts": 6
 }
