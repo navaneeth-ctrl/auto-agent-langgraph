@@ -1,34 +1,41 @@
-name: Internship Agent
+name: Internship Intelligence Agent
 
 on:
   schedule:
-    - cron: "0 */6 * * *"   # every 6 hours
+    - cron: "0 */3 * * *"   # every 3 hours
   workflow_dispatch:
 
 jobs:
-  run:
+  run-agent:
     runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v4
 
-      - uses: actions/setup-python@v5
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
         with:
           python-version: "3.11"
 
-      - name: Install
-        run: pip install -r requirements.txt
+      - name: Install dependencies
+        run: |
+          pip install -r requirements.txt
 
       - name: Run agent
         env:
-          LLM_API_KEY: ${{ secrets.LLM_API_KEY }}
-          LLM_BASE_URL: ${{ secrets.LLM_BASE_URL }}
-          LLM_MODEL: ${{ secrets.LLM_MODEL }}
+          GROQ_API_KEY: ${{ secrets.GROQ_API_KEY }}
+          MAIL_WEBHOOK_URL: ${{ secrets.MAIL_WEBHOOK_URL }}
+          MAIL_TO: ${{ secrets.MAIL_TO }}
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
           TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
-        run: python agent.py
+        run: |
+          python agent.py
 
-      - name: Upload digest
-        uses: actions/upload-artifact@v4
-        with:
-          name: digest
-          path: out/
+      - name: Commit latest report
+        run: |
+          git config --global user.name "Auto Agent"
+          git config --global user.email "agent@users.noreply.github.com"
+          git add latest_report.md
+          git commit -m "Update latest internship report" || echo "No changes"
+          git push
