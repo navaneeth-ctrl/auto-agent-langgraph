@@ -95,40 +95,27 @@ def safe_get(url: str, timeout: int = 30) -> Any:
 # Job sources (free/public)
 # ---------------------------
 
-def remotive_jobs() -> List[Dict[str, Any]]:
-    # https://remotive.com/api/remote-jobs
-    url = "https://remotive.com/api/remote-jobs"
-    data = safe_get(url)
+import feedparser
+
+def indeed_india_jobs():
+    url = "https://in.indeed.com/rss?q=data+science+intern&l=India"
+    feed = feedparser.parse(url)
+
     jobs = []
-    for j in data.get("jobs", []):
+    for entry in feed.entries:
         jobs.append({
-            "source": "Remotive",
-            "title": j.get("title", "") or "",
-            "company": j.get("company_name", "") or "",
-            "location": j.get("candidate_required_location", "") or "",
-            "url": j.get("url", "") or "",
-            "tags": j.get("tags", []) or [],
-            "date": j.get("publication_date", "") or "",
+            "source": "Indeed India",
+            "title": entry.title,
+            "company": "",
+            "location": "India",
+            "url": entry.link,
+            "tags": [],
+            "date": getattr(entry, "published", "")
         })
     return jobs
 
 
-def arbeitnow_jobs() -> List[Dict[str, Any]]:
-    # https://www.arbeitnow.com/api/job-board-api
-    url = "https://www.arbeitnow.com/api/job-board-api"
-    data = safe_get(url)
-    jobs = []
-    for j in data.get("data", []):
-        jobs.append({
-            "source": "Arbeitnow",
-            "title": j.get("title", "") or "",
-            "company": j.get("company_name", "") or "",
-            "location": j.get("location", "") or "",
-            "url": j.get("url", "") or "",
-            "tags": j.get("tags", []) or [],
-            "date": j.get("created_at", "") or "",
-        })
-    return jobs
+
 
 
 # ---------------------------
@@ -171,11 +158,10 @@ class State(TypedDict):
 
 def tool_fetch(state: State) -> State:
     jobs: List[Dict[str, Any]] = []
-    for fn in (remotive_jobs, arbeitnow_jobs):
+    for fn in (indeed_india_jobs,):
         try:
             jobs.extend(fn())
         except Exception:
-            # continue on source failure
             pass
     return {**state, "raw_jobs": jobs}
 
