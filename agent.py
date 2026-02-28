@@ -208,12 +208,11 @@ class State(TypedDict):
 
 
 def tool_fetch(state: State) -> State:
-    jobs: List[Dict[str, Any]] = []
-    for fn in (indeed_india_jobs,):
-        try:
-            jobs.extend(fn())
-        except Exception:
-            pass
+    jobs = []
+    try:
+        jobs.extend(internshala_jobs())
+    except Exception:
+        pass
     return {**state, "raw_jobs": jobs}
 
 
