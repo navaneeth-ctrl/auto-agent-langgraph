@@ -214,12 +214,8 @@ def tool_normalize_dedupe_filter(state: State) -> State:
 
         # Optional location preference (soft): if you set preferences, keep matches,
         # but don't drop everything if location is unknown.
-        if loc_pref:
-            loc = (j.get("location") or "").lower()
-            if loc and not any(p in loc for p in loc_pref):
-                # keep remote-friendly non-specific too
-                if "remote" not in loc:
-                    continue
+        # ✅ Soft location preference: never drop just because of location
+        # (ranking can prefer India/Remote later if you want)
 
         jid = stable_job_id(j)
         if jid in seen:
