@@ -205,9 +205,12 @@ def tool_normalize_dedupe_filter(state: State) -> State:
         if any(x in text for x in exc):
             continue
 
-        # Prefer internship/junior terms (include list should contain intern/internship)
-        if not any(k in text for k in inc):
+        # ✅ MUST be internship-ish
+        intern_terms = ["intern", "internship", "trainee"]
+        if not any(t in text for t in intern_terms):
             continue
+
+        # ✅ DS/ML terms are NOT mandatory; they help ranking later
 
         # Optional location preference (soft): if you set preferences, keep matches,
         # but don't drop everything if location is unknown.
