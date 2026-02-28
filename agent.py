@@ -114,6 +114,57 @@ def indeed_india_jobs():
         })
     return jobs
 
+from bs4 import BeautifulSoup
+import requests
+
+def internshala_search_pages() -> list[str]:
+    # multiple DS-related internship categories
+    return [
+        "https://internshala.com/internships/data-science-internship/",
+        "https://internshala.com/internships/machine-learning-internship/",
+        "https://internshala.com/internships/analytics-internship/",
+    ]
+
+def internshala_jobs() -> list[dict]:
+    headers = {"User-Agent": "Mozilla/5.0"}
+    jobs = []
+
+    for url in internshala_search_pages():
+        r = requests.get(url, headers=headers, timeout=30)
+        r.raise_for_status()
+        soup = BeautifulSoup(r.text, "lxml")
+
+        # Internshala cards commonly have this container
+        cards = soup.select("div.individual_internship")
+
+        for c in cards:
+            title_el = c.select_one("h3.job-internship-name") or c.select_one("h3")
+            company_el = c.select_one("p.company-name") or c.select_one("h4")
+            loc_el = c.select_one("div#location_names") or c.select_one(".location_link")
+
+            title = title_el.get_text(" ", strip=True) if title_el else ""
+            company = company_el.get_text(" ", strip=True) if company_el else ""
+            location = loc_el.get_text(" ", strip=True) if loc_el else "India"
+
+            a = c.select_one("a.view_detail_button") or c.select_one("a[href]")
+            link = ""
+            if a and a.get("href"):
+                href = a["href"]
+                link = href if href.startswith("http") else ("https://internshala.com" + href)
+
+            if title and link:
+                jobs.append({
+                    "source": "Internshala",
+                    "title": title,
+                    "company": company,
+                    "location": location,
+                    "url": link,
+                    "tags": ["internshala"],
+                    "date": ""
+                })
+
+    return jobs
+
 
 
 
