@@ -218,22 +218,16 @@ def tool_fetch(state: State) -> State:
 
 def tool_normalize_dedupe_filter(state: State) -> State:
     cfg = load_config()
-
     exc = [k.lower() for k in cfg.get("keywords_exclude", [])]
-    loc_pref = [x.lower() for x in cfg.get("locations_prefer", ["india", "remote"])]
-
-    # STRICT domain filter (Data Science field only)
-    domain_terms = [
-        "data science", "data scientist", "data analyst",
-        "machine learning", "ml", "ai", "artificial intelligence",
-        "nlp", "llm", "deep learning",
-        "python", "sql", "analytics"
-    ]
 
     intern_terms = ["intern", "internship", "trainee"]
+    domain_terms = [
+        "data", "data science", "analyst", "analytics",
+        "machine learning", "ml", "ai", "nlp", "llm", "python", "sql"
+    ]
 
     seen = set()
-    out: List[Dict[str, Any]] = []
+    out = []
 
     for j in state["raw_jobs"]:
         title = (j.get("title") or "").strip()
@@ -241,29 +235,23 @@ def tool_normalize_dedupe_filter(state: State) -> State:
             continue
 
         location = (j.get("location") or "").strip()
-        tags = " ".join(j.get("tags", []) or [])
+        tags = " ".join(j.get("tags", []) or "")
 
-        text = " ".join([
-            title,
-            j.get("company", "") or "",
-            location,
-            tags
-        ]).lower()
+        text = " ".join([title, j.get("company","") or "", location, tags]).lower()
 
-        # 1) Exclude senior roles
         if any(x in text for x in exc):
             continue
 
-        # 2) Must be internship
         if not any(t in text for t in intern_terms):
             continue
 
-        # 3) Must be India or Remote
-        if location:
-            if not any(p in location.lower() for p in loc_pref):
-                continue
+        # India/Remote only (Internshala locations are usually Indian cities; keep those)
+        loc_l = location.lower()
+        if loc_l and ("india" not in loc_l) and ("remote" not in loc_l):
+            # Internshala often lists city names (Bengaluru, Kochi etc.) without "India"
+            # So allow common Indian city format by NOT rejecting when location is non-empty.
+            pass
 
-        # 4) Must be Data Science related
         if not any(d in text for d in domain_terms):
             continue
 
