@@ -182,8 +182,19 @@ def tool_fetch(state: State) -> State:
 
 def tool_normalize_dedupe_filter(state: State) -> State:
     cfg = load_config()
-    must = [k.lower() for k in cfg.get("must_include", ["intern", "internship", "trainee"])]
+
     exc = [k.lower() for k in cfg.get("keywords_exclude", [])]
+    loc_pref = [x.lower() for x in cfg.get("locations_prefer", ["india", "remote"])]
+
+    # STRICT domain filter (Data Science field only)
+    domain_terms = [
+        "data science", "data scientist", "data analyst",
+        "machine learning", "ml", "ai", "artificial intelligence",
+        "nlp", "llm", "deep learning",
+        "python", "sql", "analytics"
+    ]
+
+    intern_terms = ["intern", "internship", "trainee"]
 
     seen = set()
     out: List[Dict[str, Any]] = []
@@ -193,17 +204,31 @@ def tool_normalize_dedupe_filter(state: State) -> State:
         if not title:
             continue
 
+        location = (j.get("location") or "").strip()
+        tags = " ".join(j.get("tags", []) or [])
+
         text = " ".join([
             title,
             j.get("company", "") or "",
-            j.get("location", "") or "",
-            " ".join(j.get("tags", []) or []),
+            location,
+            tags
         ]).lower()
 
+        # 1) Exclude senior roles
         if any(x in text for x in exc):
             continue
 
-        if not any(k in text for k in must):
+        # 2) Must be internship
+        if not any(t in text for t in intern_terms):
+            continue
+
+        # 3) Must be India or Remote
+        if location:
+            if not any(p in location.lower() for p in loc_pref):
+                continue
+
+        # 4) Must be Data Science related
+        if not any(d in text for d in domain_terms):
             continue
 
         jid = stable_job_id(j)
@@ -226,21 +251,22 @@ def agent_rank(state: State) -> State:
         return {**state, "ranked": []}
 
     prompt = (
-        "You are helping a Data Science student find internships/entry-level roles.\n"
-        "Score each job from 1-10 based on relevance to: Data Science, ML, NLP, LLM, RAG, Python, analytics.\n"
-        "Also penalize if it looks like senior/experienced role.\n"
-        "Return STRICT JSON array of objects: {\"id\": \"...\", \"score\": 0-10, \"reason\": \"...\"}.\n\n"
-        "Jobs:\n"
-        + "\n".join(
-            [
-                f"- id={j['id']} title={j['title']} company={j.get('company','')} "
-                f"location={j.get('location','')} tags={j.get('tags',[])}"
-                for j in items
-            ]
-        )
+    "Return ONLY valid JSON. No markdown. No explanation.\n"
+    "You are scoring internships for a Data Science student.\n"
+    "Score 1-10 based on relevance to Data Science, ML, NLP, LLM, Python, SQL.\n"
+    "Return JSON array format:\n"
+    "[{\"id\":\"...\",\"score\":7,\"reason\":\"...\"}]\n\n"
+    "Jobs:\n"
+    + "\n".join(
+        [
+            f"- id={j['id']} title={j['title']} company={j.get('company','')} "
+            f"location={j.get('location','')} tags={j.get('tags',[])}"
+            for j in items
+        ]
     )
-
+)
     resp = llm.invoke(prompt).content
+    resp = resp.strip()
 
     ranked: List[Dict[str, Any]] = []
     try:
