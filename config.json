@@ -1,8 +1,6 @@
 {
-  "keywords_include": [
-    "intern",
-    "internship",
-    "trainee",
+  "must_include": ["intern", "internship", "trainee"],
+  "nice_include": [
     "data science",
     "machine learning",
     "nlp",
@@ -19,7 +17,8 @@
     "7+ years",
     "staff"
   ],
-  "locations_prefer": ["India", "Remote"],
-  "min_score_to_alert": 6,
-  "max_alerts": 6
+  "locations_prefer": ["india", "remote"],
+  "min_score_to_alert": 5,
+  "max_alerts": 8,
+  "max_jobs_to_score": 40
 }
