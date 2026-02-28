@@ -182,9 +182,8 @@ def tool_fetch(state: State) -> State:
 
 def tool_normalize_dedupe_filter(state: State) -> State:
     cfg = load_config()
-    inc = [k.lower() for k in cfg["keywords_include"]]
-    exc = [k.lower() for k in cfg["keywords_exclude"]]
-    loc_pref = [x.lower() for x in cfg.get("locations_prefer", [])]
+    must = [k.lower() for k in cfg.get("must_include", ["intern", "internship", "trainee"])]
+    exc = [k.lower() for k in cfg.get("keywords_exclude", [])]
 
     seen = set()
     out: List[Dict[str, Any]] = []
@@ -201,21 +200,11 @@ def tool_normalize_dedupe_filter(state: State) -> State:
             " ".join(j.get("tags", []) or []),
         ]).lower()
 
-        # Exclude senior roles
         if any(x in text for x in exc):
             continue
 
-        # ✅ MUST be internship-ish
-        intern_terms = ["intern", "internship", "trainee"]
-        if not any(t in text for t in intern_terms):
+        if not any(k in text for k in must):
             continue
-
-        # ✅ DS/ML terms are NOT mandatory; they help ranking later
-
-        # Optional location preference (soft): if you set preferences, keep matches,
-        # but don't drop everything if location is unknown.
-        # ✅ Soft location preference: never drop just because of location
-        # (ranking can prefer India/Remote later if you want)
 
         jid = stable_job_id(j)
         if jid in seen:
