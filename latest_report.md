@@ -4,62 +4,62 @@
 - Source: Internshala
 - Company: Unnati Enterprises
 - Location: India
-- Score: 10/10
-- Why: Relevant to Data Science
+- Score: 9/10
+- Why: Relevance to Data Science, ML, NLP, LLM, Python, SQL is high
 - Link: https://internshala.com/internship/detail/data-science-internship-in-hyderabad-at-unnati-enterprises1772086655
+
+## Artificial Intelligence (AI)
+- Source: Internshala
+- Company: Zuneko Labs
+- Location: India
+- Score: 9/10
+- Why: Relevance to Data Science, ML, NLP, LLM, Python, SQL is high
+- Link: https://internshala.com/internship/detail/artificial-intelligence-ai-internship-in-pune-at-zuneko-labs1772080512
 
 ## Data Science
 - Source: Internshala
 - Company: Career Solutions
 - Location: India
-- Score: 10/10
-- Why: Relevant to Data Science
+- Score: 9/10
+- Why: Relevance to Data Science, ML, NLP, LLM, Python, SQL is high
 - Link: https://internshala.com/internship/detail/part-time-data-science-internship-in-chennai-at-career-solutions1772354692
 
-## Data Science
+## AI Product Engineering
 - Source: Internshala
-- Company: Innoknowvex
-- Location: India
-- Score: 10/10
-- Why: Relevant to Data Science
-- Link: https://internshala.com/internship/detail/work-from-home-data-science-internship-at-innoknowvex1772116692
-
-## Data Science
-- Source: Internshala
-- Company: Mindenious Edutech
-- Location: India
-- Score: 10/10
-- Why: Relevant to Data Science
-- Link: https://internshala.com/internship/detail/data-science-internship-in-multiple-locations-at-mindenious-edutech1772096391
-
-## Data Science
-- Source: Internshala
-- Company: Maxgen Technologies Private Limited
-- Location: India
-- Score: 10/10
-- Why: Relevant to Data Science
-- Link: https://internshala.com/internship/detail/data-science-internship-in-pune-at-maxgen-technologies-private-limited1772136387
-
-## Data Operations
-- Source: Internshala
-- Company: CREATORCULT MEDIA PRIVATE LIMITED
+- Company: Zuneko Labs
 - Location: India
 - Score: 9/10
-- Why: Relevant to Data Science
-- Link: https://internshala.com/internship/detail/data-operations-internship-in-thane-at-creatorcult-media-private-limited1772271051
+- Why: Relevance to Data Science, ML, NLP, LLM, Python, SQL is high
+- Link: https://internshala.com/internship/detail/ai-product-engineering-internship-in-multiple-locations-at-zuneko-labs1772080628
 
-## Data Digitization
+## Generative AI Video Creator
 - Source: Internshala
-- Company: DAPT Technologies
+- Company: 9AV Productions
 - Location: India
 - Score: 9/10
-- Why: Relevant to Data Science
-- Link: https://internshala.com/internship/detail/data-digitization-internship-in-gorakhpur-at-dapt-technologies1768863950
+- Why: Relevance to Data Science, ML, NLP, LLM, Python, SQL is high
+- Link: https://internshala.com/internship/detail/generative-ai-video-creator-internship-in-mumbai-at-9av-productions1770788396
 
 ## Machine Learning
 - Source: Internshala
 - Company: Symonis
 - Location: India
 - Score: 9/10
-- Why: Relevant to Machine Learning
+- Why: Relevance to Data Science, ML, NLP, LLM, Python, SQL is high
 - Link: https://internshala.com/internship/detail/work-from-home-machine-learning-internship-at-symonis1772340756
+
+## Machine Learning
+- Source: Internshala
+- Company: Cloud Back
+- Location: India
+- Score: 9/10
+- Why: Relevance to Data Science, ML, NLP, LLM, Python, SQL is high
+- Link: https://internshala.com/internship/detail/work-from-home-machine-learning-internship-at-cloud-back1772264799
+
+## Artificial Intelligence (AI)
+- Source: Internshala
+- Company: Kazunov 1AI
+- Location: India
+- Score: 9/10
+- Why: Relevance to Data Science, ML, NLP, LLM, Python, SQL is high
+- Link: https://internshala.com/internship/detail/work-from-home-artificial-intelligence-ai-internship-at-kazunov-1ai1772257168
