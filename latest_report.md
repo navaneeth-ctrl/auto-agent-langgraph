@@ -8,53 +8,13 @@
 - Why: Relevant to Data Science
 - Link: https://internshala.com/internship/detail/data-science-internship-in-hyderabad-at-unnati-enterprises1772086655
 
-## Machine Learning
+## Data Science
 - Source: Internshala
-- Company: Symonis
+- Company: Career Solutions
 - Location: India
 - Score: 10/10
-- Why: Relevant to Machine Learning
-- Link: https://internshala.com/internship/detail/work-from-home-machine-learning-internship-at-symonis1772340756
-
-## Data Analytics
-- Source: Internshala
-- Company: Symonis
-- Location: India
-- Score: 10/10
-- Why: Relevant to Data Analytics
-- Link: https://internshala.com/internship/detail/work-from-home-data-analytics-internship-at-symonis1772340729
-
-## Artificial Intelligence (AI)
-- Source: Internshala
-- Company: Kazunov 1AI
-- Location: India
-- Score: 10/10
-- Why: Relevant to Artificial Intelligence (AI)
-- Link: https://internshala.com/internship/detail/work-from-home-artificial-intelligence-ai-internship-at-kazunov-1ai1772257168
-
-## Data Analytics
-- Source: Internshala
-- Company: Cloud Back
-- Location: India
-- Score: 10/10
-- Why: Relevant to Data Analytics
-- Link: https://internshala.com/internship/detail/work-from-home-data-analytics-internship-at-cloud-back1772253804
-
-## Data Analytics
-- Source: Internshala
-- Company: Zulitech Solution
-- Location: India
-- Score: 10/10
-- Why: Relevant to Data Analytics
-- Link: https://internshala.com/internship/detail/work-from-home-data-analytics-internship-at-zulitech-solution1772243673
-
-## Artificial Intelligence (AI)
-- Source: Internshala
-- Company: Emoolar Technology Private Limited
-- Location: India
-- Score: 10/10
-- Why: Relevant to Artificial Intelligence (AI)
-- Link: https://internshala.com/internship/detail/work-from-home-artificial-intelligence-ai-internship-at-emoolar-technology-private-limited1772190369
+- Why: Relevant to Data Science
+- Link: https://internshala.com/internship/detail/part-time-data-science-internship-in-chennai-at-career-solutions1772354692
 
 ## Data Science
 - Source: Internshala
@@ -63,3 +23,43 @@
 - Score: 10/10
 - Why: Relevant to Data Science
 - Link: https://internshala.com/internship/detail/work-from-home-data-science-internship-at-innoknowvex1772116692
+
+## Data Science
+- Source: Internshala
+- Company: Mindenious Edutech
+- Location: India
+- Score: 10/10
+- Why: Relevant to Data Science
+- Link: https://internshala.com/internship/detail/data-science-internship-in-multiple-locations-at-mindenious-edutech1772096391
+
+## Data Science
+- Source: Internshala
+- Company: Maxgen Technologies Private Limited
+- Location: India
+- Score: 10/10
+- Why: Relevant to Data Science
+- Link: https://internshala.com/internship/detail/data-science-internship-in-pune-at-maxgen-technologies-private-limited1772136387
+
+## Data Operations
+- Source: Internshala
+- Company: CREATORCULT MEDIA PRIVATE LIMITED
+- Location: India
+- Score: 9/10
+- Why: Relevant to Data Science
+- Link: https://internshala.com/internship/detail/data-operations-internship-in-thane-at-creatorcult-media-private-limited1772271051
+
+## Data Digitization
+- Source: Internshala
+- Company: DAPT Technologies
+- Location: India
+- Score: 9/10
+- Why: Relevant to Data Science
+- Link: https://internshala.com/internship/detail/data-digitization-internship-in-gorakhpur-at-dapt-technologies1768863950
+
+## Machine Learning
+- Source: Internshala
+- Company: Symonis
+- Location: India
+- Score: 9/10
+- Why: Relevant to Machine Learning
+- Link: https://internshala.com/internship/detail/work-from-home-machine-learning-internship-at-symonis1772340756
