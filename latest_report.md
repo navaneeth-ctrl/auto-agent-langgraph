@@ -8,13 +8,13 @@
 - Why: Relevant to Data Science
 - Link: https://internshala.com/internship/detail/data-science-internship-in-hyderabad-at-unnati-enterprises1772086655
 
-## Machine Learning (Modeling + Evaluation)
+## Data Science
 - Source: Internshala
-- Company: Primetrade.ai
+- Company: Accredian
 - Location: India
 - Score: 10/10
-- Why: Relevant to Machine Learning
-- Link: https://internshala.com/internship/detail/work-from-home-machine-learning-modeling-evaluation-internship-at-primetradeai1772422080
+- Why: Relevant to Data Science
+- Link: https://internshala.com/internship/detail/work-from-home-data-science-internship-at-accredian1772426518
 
 ## Data Science
 - Source: Internshala
@@ -24,14 +24,6 @@
 - Why: Relevant to Data Science
 - Link: https://internshala.com/internship/detail/work-from-home-data-science-internship-at-primetradeai1772423029
 
-## Machine Learning
-- Source: Internshala
-- Company: Arvyax Technologies Private Limited
-- Location: India
-- Score: 10/10
-- Why: Relevant to Machine Learning
-- Link: https://internshala.com/internship/detail/work-from-home-machine-learning-internship-at-arvyax-technologies-private-limited1772375867
-
 ## Data Science
 - Source: Internshala
 - Company: Career Solutions
@@ -40,22 +32,6 @@
 - Why: Relevant to Data Science
 - Link: https://internshala.com/internship/detail/part-time-data-science-internship-in-chennai-at-career-solutions1772354692
 
-## Machine Learning
-- Source: Internshala
-- Company: Symonis
-- Location: India
-- Score: 10/10
-- Why: Relevant to Machine Learning
-- Link: https://internshala.com/internship/detail/work-from-home-machine-learning-internship-at-symonis1772340756
-
-## Data Science
-- Source: Internshala
-- Company: Maxgen Technologies Private Limited
-- Location: India
-- Score: 10/10
-- Why: Relevant to Data Science
-- Link: https://internshala.com/internship/detail/data-science-internship-in-pune-at-maxgen-technologies-private-limited1772136387
-
 ## Data Science
 - Source: Internshala
 - Company: Innoknowvex
@@ -63,3 +39,27 @@
 - Score: 10/10
 - Why: Relevant to Data Science
 - Link: https://internshala.com/internship/detail/work-from-home-data-science-internship-at-innoknowvex1772116692
+
+## Machine Learning (Modeling + Evaluation)
+- Source: Internshala
+- Company: Primetrade.ai
+- Location: India
+- Score: 9/10
+- Why: Relevant to Machine Learning
+- Link: https://internshala.com/internship/detail/work-from-home-machine-learning-modeling-evaluation-internship-at-primetradeai1772422080
+
+## Artificial Intelligence (AI)
+- Source: Internshala
+- Company: Primetrade.ai
+- Location: India
+- Score: 9/10
+- Why: Relevant to Artificial Intelligence
+- Link: https://internshala.com/internship/detail/work-from-home-artificial-intelligence-ai-internship-at-primetradeai1772422898
+
+## AI Agent Development
+- Source: Internshala
+- Company: Primetrade.ai
+- Location: India
+- Score: 9/10
+- Why: Relevant to AI Agent Development
+- Link: https://internshala.com/internship/detail/work-from-home-ai-agent-development-internship-at-primetradeai1772422448
