@@ -1,65 +1,65 @@
 # Internship Intelligence Digest — 2026-03-02
 
-## Data Science
+## AI Content Engineer — YouTube Growth
 - Source: Internshala
-- Company: Aviate Manpower
+- Company: Astronova Synergies LLP
 - Location: India
 - Score: 9/10
-- Why: Data Science is relevant to Data Science
-- Link: https://internshala.com/internship/detail/data-science-internship-in-mumbai-at-aviate-manpower1772432763
+- Why: AI Content Engineer — YouTube Growth
+- Link: https://internshala.com/internship/detail/work-from-home-ai-content-engineer--youtube-growth-internship-at-astronova-synergies-llp1771216159
 
-## Data Science
+## AI Agent Development
 - Source: Internshala
-- Company: Fitbae Healthcare Private Limited
+- Company: Conscript HR Advisors Private Limited
 - Location: India
 - Score: 9/10
-- Why: Data Science is relevant to Data Science
-- Link: https://internshala.com/internship/detail/work-from-home-data-science-internship-at-fitbae-healthcare-private-limited1772440900
+- Why: AI Agent Development
+- Link: https://internshala.com/internship/detail/ai-agent-development-internship-in-mumbai-at-conscript-hr-advisors-private-limited1772450324
+
+## AI Product Engineering
+- Source: Internshala
+- Company: Zuneko Labs
+- Location: India
+- Score: 9/10
+- Why: AI Product Engineering
+- Link: https://internshala.com/internship/detail/ai-product-engineering-internship-in-multiple-locations-at-zuneko-labs1772080628
+
+## Full Stack Developer (AI Focus)
+- Source: Internshala
+- Company: Helios Tech Labs
+- Location: India
+- Score: 9/10
+- Why: Full Stack Developer (AI Focus)
+- Link: https://internshala.com/internship/detail/full-stack-developer-ai-focus-internship-in-multiple-locations-at-helios-tech-labs1772451052
+
+## Backend Developer (AI Focus)
+- Source: Internshala
+- Company: Fincon
+- Location: India
+- Score: 9/10
+- Why: Backend Developer (AI Focus)
+- Link: https://internshala.com/internship/detail/backend-developer-ai-focus-internship-in-multiple-locations-at-fincon1771995507
 
 ## AI Research & LLM Systems
 - Source: Internshala
 - Company: Beavr
 - Location: India
 - Score: 9/10
-- Why: AI Research & LLM Systems is relevant to Data Science
+- Why: AI Research & LLM Systems
 - Link: https://internshala.com/internship/detail/work-from-home-part-time-ai-research-llm-systems-internship-at-beavr1772438841
 
-## Data Science
+## Artificial Intelligence (AI)
 - Source: Internshala
-- Company: Accredian
-- Location: India
-- Score: 9/10
-- Why: Data Science is relevant to Data Science
-- Link: https://internshala.com/internship/detail/work-from-home-data-science-internship-at-accredian1772426518
-
-## Machine Learning (Modeling + Evaluation)
-- Source: Internshala
-- Company: Primetrade.ai
-- Location: India
-- Score: 9/10
-- Why: Machine Learning (Modeling + Evaluation) is relevant to Data Science
-- Link: https://internshala.com/internship/detail/work-from-home-machine-learning-modeling-evaluation-internship-at-primetradeai1772422080
-
-## Data Analytics
-- Source: Internshala
-- Company: Unnati Enterprises
+- Company: Storybizz Media Private Limited
 - Location: India
 - Score: 8/10
-- Why: Data Analytics is relevant to Data Science
-- Link: https://internshala.com/internship/detail/data-analytics-internship-in-multiple-locations-at-unnati-enterprises1772086765
+- Why: Artificial Intelligence (AI)
+- Link: https://internshala.com/internship/detail/artificial-intelligence-ai-internship-in-kolkata-at-storybizz-media-private-limited1772454731
 
 ## AI & Automation
 - Source: Internshala
 - Company: HuedLife
 - Location: India
 - Score: 8/10
-- Why: AI & Automation is relevant to Data Science
+- Why: AI & Automation
 - Link: https://internshala.com/internship/detail/ai-automation-internship-in-bangalore-at-huedlife1771832190
-
-## AI Content Engineer — YouTube Growth
-- Source: Internshala
-- Company: Astronova Synergies LLP
-- Location: India
-- Score: 8/10
-- Why: AI Content Engineer — YouTube Growth is relevant to Data Science
-- Link: https://internshala.com/internship/detail/work-from-home-ai-content-engineer--youtube-growth-internship-at-astronova-synergies-llp1771216159
