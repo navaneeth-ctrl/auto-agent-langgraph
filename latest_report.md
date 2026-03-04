@@ -1,65 +1,65 @@
 # Internship Intelligence Digest — 2026-03-04
 
-## Artificial Intelligence (AI)
+## AI & LLM Automation Intern (Remote)
 - Source: Internshala
-- Company: Storybizz Media Private Limited
+- Company: Imperion Data Systems Private Limited
 - Location: India
-- Score: 9/10
-- Why: Directly related to Artificial Intelligence
-- Link: https://internshala.com/internship/detail/artificial-intelligence-ai-internship-in-kolkata-at-storybizz-media-private-limited1772454731
+- Score: 10/10
+- Why: AI & LLM Automation Intern (Remote) company=Imperion Data Systems Private Limited location=India tags=['internshala']
+- Link: https://internshala.com/internship/detail/work-from-home-ai-llm-automation-intern-remote-internship-at-imperion-data-systems-private-limited1772516008
 
-## Full Stack Developer (AI Focus)
+## AI Product Engineering
 - Source: Internshala
-- Company: Helios Tech Labs
+- Company: Zuneko Labs
 - Location: India
 - Score: 9/10
-- Why: Full Stack Developer with AI Focus
-- Link: https://internshala.com/internship/detail/full-stack-developer-ai-focus-internship-in-multiple-locations-at-helios-tech-labs1772451052
-
-## Backend Developer (AI Focus)
-- Source: Internshala
-- Company: Fincon
-- Location: India
-- Score: 9/10
-- Why: Backend Developer with AI Focus
-- Link: https://internshala.com/internship/detail/backend-developer-ai-focus-internship-in-multiple-locations-at-fincon1771995507
-
-## Data Scientist
-- Source: Internshala
-- Company: TSTEPS PRIVATE LIMITED
-- Location: India
-- Score: 9/10
-- Why: Data Scientist role
-- Link: https://internshala.com/internship/detail/data-scientist-internship-in-multiple-locations-at-tsteps-private-limited1772535439
+- Why: AI Product Engineering company=Zuneko Labs location=India tags=['internshala']
+- Link: https://internshala.com/internship/detail/ai-product-engineering-internship-in-multiple-locations-at-zuneko-labs1772080628
 
 ## Researcher - Vedron
 - Source: Internshala
 - Company: Vedron.ai
 - Location: India
 - Score: 9/10
-- Why: Researcher role at Vedron.ai
+- Why: Researcher - Vedron company=Vedron.ai location=India tags=['internshala']
 - Link: https://internshala.com/internship/detail/work-from-home-part-time-researcher-vedron-internship-at-vedronai1772531593
 
-## AI & LLM Automation Intern (Remote)
+## AI Product Entry And Marketing.
 - Source: Internshala
-- Company: Imperion Data Systems Private Limited
-- Location: India
-- Score: 9/10
-- Why: AI & LLM Automation Intern role
-- Link: https://internshala.com/internship/detail/work-from-home-ai-llm-automation-intern-remote-internship-at-imperion-data-systems-private-limited1772516008
-
-## AI Agent Development
-- Source: Internshala
-- Company: Namma Circle
+- Company: Jai Rajaji Stone Studio
 - Location: India
 - Score: 8/10
-- Why: Relevant to AI and Data Science
-- Link: https://internshala.com/internship/detail/work-from-home-ai-agent-development-internship-at-namma-circle1772526514
+- Why: AI Product Entry And Marketing. company=Jai Rajaji Stone Studio location=India tags=['internshala']
+- Link: https://internshala.com/internship/detail/ai-product-entry-and-marketing-internship-in-hyderabad-at-jai-rajaji-stone-studio1772436373
 
-## AI Agent Development
+## AI Conversation Auditor (ConvoZen)
 - Source: Internshala
-- Company: Conscript HR Advisors Private Limited
+- Company: NoBroker
 - Location: India
 - Score: 8/10
-- Why: Relevant to AI Agent Development
-- Link: https://internshala.com/internship/detail/ai-agent-development-internship-in-mumbai-at-conscript-hr-advisors-private-limited1772450324
+- Why: AI Conversation Auditor (ConvoZen) company=NoBroker location=India tags=['internshala']
+- Link: https://internshala.com/internship/detail/ai-conversation-auditor-convozen-internship-in-bangalore-at-nobroker1772344202
+
+## AI Agent Automation & Creative AI
+- Source: Internshala
+- Company: Internet Innovations India Private Limited
+- Location: India
+- Score: 8/10
+- Why: AI Agent Automation & Creative AI company=Internet Innovations India Private Limited location=India tags=['internshala']
+- Link: https://internshala.com/internship/detail/work-from-home-part-time-ai-agent-automation-creative-ai-internship-at-internet-innovations-india-private-limited1772515481
+
+## AI Engineering & Learning Design
+- Source: Internshala
+- Company: FinZebra
+- Location: India
+- Score: 8/10
+- Why: AI Engineering & Learning Design company=FinZebra location=India tags=['internshala']
+- Link: https://internshala.com/internship/detail/work-from-home-ai-engineering-learning-design-internship-at-finzebra1772511551
+
+## Data Science
+- Source: Internshala
+- Company: Mindenious Edutech
+- Location: India
+- Score: 8/10
+- Why: Data Science company=Mindenious Edutech location=India tags=['internshala']
+- Link: https://internshala.com/internship/detail/data-science-internship-in-multiple-locations-at-mindenious-edutech1772096391
