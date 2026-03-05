@@ -1,65 +1,65 @@
 # Internship Intelligence Digest — 2026-03-05
 
-## Full Stack Developer (AI Focus)
+## Machine Learning Engineer
 - Source: Internshala
-- Company: Helios Tech Labs
+- Company: Talent Corner HR Services
 - Location: India
-- Score: 9/10
-- Why: Full Stack Developer (AI Focus)
-- Link: https://internshala.com/internship/detail/full-stack-developer-ai-focus-internship-in-multiple-locations-at-helios-tech-labs1772451052
+- Score: 7/10
+- Why: Fallback ranking (LLM JSON parse failed).
+- Link: https://internshala.com/internship/detail/machine-learning-engineer-internship-in-mumbai-at-talent-corner-hr-services1772687003
 
-## AI Agent Development
+## Machine Learning
 - Source: Internshala
-- Company: Conscript HR Advisors Private Limited
+- Company: OralKart
 - Location: India
-- Score: 9/10
-- Why: AI Agent Development
-- Link: https://internshala.com/internship/detail/ai-agent-development-internship-in-mumbai-at-conscript-hr-advisors-private-limited1772450324
+- Score: 7/10
+- Why: Fallback ranking (LLM JSON parse failed).
+- Link: https://internshala.com/internship/detail/work-from-home-machine-learning-internship-at-arnav-roy1772693294
 
-## Data Scientist
+## Data Science
 - Source: Internshala
-- Company: TSTEPS PRIVATE LIMITED
+- Company: Bro's Innovations And Technology.
 - Location: India
-- Score: 9/10
-- Why: Data Scientist
-- Link: https://internshala.com/internship/detail/data-scientist-internship-in-multiple-locations-at-tsteps-private-limited1772535439
+- Score: 7/10
+- Why: Fallback ranking (LLM JSON parse failed).
+- Link: https://internshala.com/internship/detail/data-science-internship-in-multiple-locations-at-bros-innovations-and-technology1772628719
 
-## Researcher - Vedron
+## Machine Learning
 - Source: Internshala
-- Company: Vedron.ai
+- Company: Symonis
 - Location: India
-- Score: 9/10
-- Why: Researcher - Vedron
-- Link: https://internshala.com/internship/detail/work-from-home-part-time-researcher-vedron-internship-at-vedronai1772531593
+- Score: 7/10
+- Why: Fallback ranking (LLM JSON parse failed).
+- Link: https://internshala.com/internship/detail/work-from-home-machine-learning-internship-at-symonis1772686472
 
-## AI Agent Automation & Creative AI
+## Machine Learning
 - Source: Internshala
-- Company: Internet Innovations India Private Limited
+- Company: Cloud Back
 - Location: India
-- Score: 9/10
-- Why: AI Agent Automation & Creative AI
-- Link: https://internshala.com/internship/detail/work-from-home-part-time-ai-agent-automation-creative-ai-internship-at-internet-innovations-india-private-limited1772515481
+- Score: 7/10
+- Why: Fallback ranking (LLM JSON parse failed).
+- Link: https://internshala.com/internship/detail/work-from-home-machine-learning-internship-at-cloud-back1772683736
+
+## Data Science
+- Source: Internshala
+- Company: Innoknowvex
+- Location: India
+- Score: 7/10
+- Why: Fallback ranking (LLM JSON parse failed).
+- Link: https://internshala.com/internship/detail/work-from-home-data-science-internship-at-innoknowvex1772623464
+
+## Machine Learning
+- Source: Internshala
+- Company: Zulitech Solution
+- Location: India
+- Score: 7/10
+- Why: Fallback ranking (LLM JSON parse failed).
+- Link: https://internshala.com/internship/detail/work-from-home-machine-learning-internship-at-zulitech-solution1772441866
 
 ## Data Science
 - Source: Internshala
 - Company: Fitbae Healthcare Private Limited
 - Location: India
-- Score: 9/10
-- Why: Data Science
+- Score: 7/10
+- Why: Fallback ranking (LLM JSON parse failed).
 - Link: https://internshala.com/internship/detail/work-from-home-data-science-internship-at-fitbae-healthcare-private-limited1772440900
-
-## Data Analytics
-- Source: Internshala
-- Company: Fitbae Healthcare Private Limited
-- Location: India
-- Score: 9/10
-- Why: Data Analytics
-- Link: https://internshala.com/internship/detail/work-from-home-data-analytics-internship-at-fitbae-healthcare-private-limited1772440093
-
-## Data Science
-- Source: Internshala
-- Company: Aviate Manpower
-- Location: India
-- Score: 9/10
-- Why: Data Science
-- Link: https://internshala.com/internship/detail/data-science-internship-in-mumbai-at-aviate-manpower1772432763
