@@ -1,65 +1,65 @@
 # Internship Intelligence Digest — 2026-03-05
 
-## AI/ML Engineer
+## AI & Automation
 - Source: Internshala
-- Company: Namaah Pvt Ltd
+- Company: Audym Lifesciences
 - Location: India
 - Score: 9/10
-- Why: AI/ML Engineer
-- Link: https://internshala.com/internship/detail/work-from-home-ai-ml-engineer-internship-at-namaah-pvt-ltd1772709486
+- Why: AI & Automation
+- Link: https://internshala.com/internship/detail/ai-automation-internship-in-hyderabad-at-audym-lifesciences1771840698
+
+## AI Automation & Chatbot Development
+- Source: Internshala
+- Company: SEO Labs
+- Location: India
+- Score: 9/10
+- Why: AI Automation & Chatbot Development
+- Link: https://internshala.com/internship/detail/work-from-home-part-time-ai-automation-chatbot-development-internship-at-seo-labs1772692354
+
+## AI Engineer
+- Source: Internshala
+- Company: Resolute AI Software Private Limited
+- Location: India
+- Score: 9/10
+- Why: AI Engineer
+- Link: https://internshala.com/internship/detail/work-from-home-ai-engineer-internship-at-resolute-ai-software-private-limited1772697777
 
 ## Machine Learning Engineer
 - Source: Internshala
 - Company: Talent Corner HR Services
 - Location: India
-- Score: 9/10
+- Score: 8/10
 - Why: Machine Learning Engineer
 - Link: https://internshala.com/internship/detail/machine-learning-engineer-internship-in-mumbai-at-talent-corner-hr-services1772687003
 
-## Data Science
+## AI Automation
 - Source: Internshala
-- Company: Random Groups Of Companies
-- Location: India
-- Score: 9/10
-- Why: Data Science
-- Link: https://internshala.com/internship/detail/part-time-data-science-internship-in-chennai-at-random-groups-of-companies1772696799
-
-## Data Science
-- Source: Internshala
-- Company: Bro's Innovations And Technology.
-- Location: India
-- Score: 9/10
-- Why: Data Science
-- Link: https://internshala.com/internship/detail/data-science-internship-in-multiple-locations-at-bros-innovations-and-technology1772628719
-
-## Data Science
-- Source: Internshala
-- Company: Innoknowvex
-- Location: India
-- Score: 9/10
-- Why: Data Science
-- Link: https://internshala.com/internship/detail/work-from-home-data-science-internship-at-innoknowvex1772623464
-
-## Backend Engineer (AI Integration Bonus)
-- Source: Internshala
-- Company: Talent Corner HR Services
+- Company: OyeLabs
 - Location: India
 - Score: 8/10
-- Why: Backend Engineer (AI Integration Bonus)
-- Link: https://internshala.com/internship/detail/backend-engineer-ai-integration-bonus-internship-in-mumbai-at-talent-corner-hr-services1772686851
+- Why: AI Automation
+- Link: https://internshala.com/internship/detail/work-from-home-ai-automation-internship-at-oyelabs1772693754
 
 ## Artificial Intelligence (AI)
 - Source: Internshala
-- Company: Tax-O-Smart LLP
+- Company: Storybizz Media Private Limited
 - Location: India
 - Score: 8/10
 - Why: Artificial Intelligence (AI)
-- Link: https://internshala.com/internship/detail/artificial-intelligence-ai-internship-in-mumbai-at-tax-o-smart-llp1772615087
+- Link: https://internshala.com/internship/detail/artificial-intelligence-ai-internship-in-kolkata-at-storybizz-media-private-limited1772454731
 
-## AI Agent Developer
+## AI Agent Development
 - Source: Internshala
-- Company: LegalSeva.org
+- Company: Conscript HR Advisors Private Limited
 - Location: India
 - Score: 8/10
-- Why: AI Agent Developer
-- Link: https://internshala.com/internship/detail/work-from-home-ai-agent-developer-internship-at-legalsevaorg1772683697
+- Why: AI Agent Development
+- Link: https://internshala.com/internship/detail/ai-agent-development-internship-in-mumbai-at-conscript-hr-advisors-private-limited1772450324
+
+## Artificial Intelligence (AI)
+- Source: Internshala
+- Company: Heptaverse Technologies Private Limited
+- Location: India
+- Score: 8/10
+- Why: Artificial Intelligence (AI)
+- Link: https://internshala.com/internship/detail/artificial-intelligence-ai-internship-in-mumbai-at-heptaverse-technologies-private-limited1772712113
