@@ -1,11 +1,35 @@
 # Internship Intelligence Digest — 2026-03-06
 
+## Artificial Intelligence (AI)
+- Source: Internshala
+- Company: Storybizz Media Private Limited
+- Location: India
+- Score: 9/10
+- Why: Relevant to Artificial Intelligence (AI)
+- Link: https://internshala.com/internship/detail/artificial-intelligence-ai-internship-in-kolkata-at-storybizz-media-private-limited1772454731
+
+## Artificial Intelligence (AI)
+- Source: Internshala
+- Company: Fairassets Technologies India Private Limited
+- Location: India
+- Score: 9/10
+- Why: Relevant to Artificial Intelligence (AI)
+- Link: https://internshala.com/internship/detail/artificial-intelligence-ai-internship-in-gurgaon-at-fairassets-technologies-india-private-limited1772724268
+
+## Artificial Intelligence (AI)
+- Source: Internshala
+- Company: Unimonks
+- Location: India
+- Score: 9/10
+- Why: Relevant to Artificial Intelligence (AI)
+- Link: https://internshala.com/internship/detail/artificial-intelligence-ai-internship-in-delhi-at-unimonks1772713560
+
 ## AI Research (NARI)
 - Source: Internshala
 - Company: Namaah Pvt Ltd
 - Location: India
 - Score: 9/10
-- Why: Relevant to Data Science, ML, AI, NLP, Python
+- Why: Relevant to AI Research (NARI)
 - Link: https://internshala.com/internship/detail/work-from-home-ai-research-nari-internship-at-namaah-pvt-ltd1772775317
 
 ## Machine Learning
@@ -13,53 +37,29 @@
 - Company: Above Alpha Solutions LLP
 - Location: India
 - Score: 9/10
-- Why: Relevant to Data Science, ML, AI, Python
+- Why: Relevant to Machine Learning
 - Link: https://internshala.com/internship/detail/machine-learning-internship-in-kolkata-at-above-alpha-solutions-llp1772789029
 
-## Machine Learning
+## AI Software Engineer
 - Source: Internshala
-- Company: Cyber Saga
+- Company: DialaBank
 - Location: India
 - Score: 9/10
-- Why: Relevant to Data Science, ML, AI, Python
-- Link: https://internshala.com/internship/detail/work-from-home-machine-learning-internship-at-cyber-saga1772784308
+- Why: Relevant to AI Software Engineer
+- Link: https://internshala.com/internship/detail/ai-software-engineer-internship-in-multiple-locations-at-dialabank1772770032
 
-## Machine Learning
+## Artificial Intelligence (AI)
 - Source: Internshala
-- Company: Cloud Back
+- Company: Heptaverse Technologies Private Limited
 - Location: India
 - Score: 9/10
-- Why: Relevant to Data Science, ML, AI, Python
-- Link: https://internshala.com/internship/detail/work-from-home-machine-learning-internship-at-cloud-back1772782121
+- Why: Relevant to Artificial Intelligence (AI)
+- Link: https://internshala.com/internship/detail/artificial-intelligence-ai-internship-in-mumbai-at-heptaverse-technologies-private-limited1772712113
 
-## Machine Learning
+## Data Science
 - Source: Internshala
-- Company: CareerNest
+- Company: Random Groups Of Companies
 - Location: India
 - Score: 9/10
-- Why: Relevant to Data Science, ML, AI, Python
-- Link: https://internshala.com/internship/detail/work-from-home-machine-learning-internship-at-careernest1772776878
-
-## Machine Learning Engineer
-- Source: Internshala
-- Company: TSTEPS PRIVATE LIMITED
-- Location: India
-- Score: 9/10
-- Why: Relevant to Data Science, ML, AI, Python
-- Link: https://internshala.com/internship/detail/machine-learning-engineer-internship-in-multiple-locations-at-tsteps-private-limited1772714469
-
-## AI/ML Engineer
-- Source: Internshala
-- Company: Namaah Pvt Ltd
-- Location: India
-- Score: 9/10
-- Why: Relevant to Data Science, ML, AI, Python
-- Link: https://internshala.com/internship/detail/work-from-home-ai-ml-engineer-internship-at-namaah-pvt-ltd1772709486
-
-## Machine Learning Engineer
-- Source: Internshala
-- Company: Talent Corner HR Services
-- Location: India
-- Score: 9/10
-- Why: Relevant to Data Science, ML, AI, Python
-- Link: https://internshala.com/internship/detail/machine-learning-engineer-internship-in-mumbai-at-talent-corner-hr-services1772687003
+- Why: Relevant to Data Science
+- Link: https://internshala.com/internship/detail/part-time-data-science-internship-in-chennai-at-random-groups-of-companies1772696799
