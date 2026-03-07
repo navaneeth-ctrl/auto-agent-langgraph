@@ -1,65 +1,65 @@
 # Internship Intelligence Digest — 2026-03-07
 
-## Artificial Intelligence (AI)
+## Data Science Intern
 - Source: Internshala
-- Company: Storybizz Media Private Limited
+- Company: Zetheta Algorithms Private Limited
 - Location: India
-- Score: 9/10
-- Why: Relevant to Artificial Intelligence
-- Link: https://internshala.com/internship/detail/artificial-intelligence-ai-internship-in-kolkata-at-storybizz-media-private-limited1772454731
-
-## AI Agent Development
-- Source: Internshala
-- Company: Unimonks
-- Location: India
-- Score: 9/10
-- Why: Relevant to AI Agent Development
-- Link: https://internshala.com/internship/detail/ai-agent-development-internship-in-delhi-at-unimonks1772815802
-
-## AI Agent Development
-- Source: Internshala
-- Company: Growify Digital
-- Location: India
-- Score: 9/10
-- Why: Relevant to AI Agent Development
-- Link: https://internshala.com/internship/detail/ai-agent-development-internship-in-delhi-at-growify-digital1772871051
+- Score: 8/10
+- Why: Fallback ranking (LLM JSON parse failed).
+- Link: https://internshala.com/internship/detail/work-from-home-data-science-intern-internship-at-zetheta-algorithms-private-limited1772881209
 
 ## Data Science
 - Source: Internshala
 - Company: Random Groups Of Companies
 - Location: India
-- Score: 9/10
-- Why: Relevant to Data Science
+- Score: 7/10
+- Why: Fallback ranking (LLM JSON parse failed).
 - Link: https://internshala.com/internship/detail/part-time-data-science-internship-in-chennai-at-random-groups-of-companies1772696799
+
+## AI Automation Intern
+- Source: Internshala
+- Company: Riverwood India
+- Location: India
+- Score: 7/10
+- Why: Fallback ranking (LLM JSON parse failed).
+- Link: https://internshala.com/internship/detail/work-from-home-ai-automation-intern-internship-at-riverwood-india1772880967
+
+## AI / ML Engineering Intern
+- Source: Internshala
+- Company: Aurora Financials
+- Location: India
+- Score: 7/10
+- Why: Fallback ranking (LLM JSON parse failed).
+- Link: https://internshala.com/internship/detail/work-from-home-ai-ml-engineering-intern-internship-at-aurora-financials1772876827
+
+## Intern  CAE & AI-Driven Simulation Workflows
+- Source: Internshala
+- Company: Trisim Technologies
+- Location: India
+- Score: 7/10
+- Why: Fallback ranking (LLM JSON parse failed).
+- Link: https://internshala.com/internship/detail/work-from-home-intern-cae-ai-driven-simulation-workflows-internship-at-trisim-technologies1772876050
 
 ## Machine Learning
 - Source: Internshala
 - Company: Symonis
 - Location: India
-- Score: 9/10
-- Why: Relevant to Machine Learning
+- Score: 7/10
+- Why: Fallback ranking (LLM JSON parse failed).
 - Link: https://internshala.com/internship/detail/work-from-home-machine-learning-internship-at-symonis1772861922
 
-## Data Science
+## Machine Learning
 - Source: Internshala
-- Company: Innoknowvex
+- Company: Cloud Back
 - Location: India
-- Score: 9/10
-- Why: Relevant to Data Science
-- Link: https://internshala.com/internship/detail/work-from-home-data-science-internship-at-innoknowvex1772623464
+- Score: 7/10
+- Why: Fallback ranking (LLM JSON parse failed).
+- Link: https://internshala.com/internship/detail/work-from-home-machine-learning-internship-at-cloud-back1772782121
 
-## Artificial Intelligence (AI)
+## Machine Learning
 - Source: Internshala
-- Company: Primetrade.ai
+- Company: CareerNest
 - Location: India
-- Score: 9/10
-- Why: Relevant to Artificial Intelligence
-- Link: https://internshala.com/internship/detail/work-from-home-artificial-intelligence-ai-internship-at-primetradeai1772422898
-
-## AI/ML Engineer
-- Source: Internshala
-- Company: Namaah Pvt Ltd
-- Location: India
-- Score: 9/10
-- Why: Relevant to AI/ML Engineer
-- Link: https://internshala.com/internship/detail/work-from-home-ai-ml-engineer-internship-at-namaah-pvt-ltd1772709486
+- Score: 7/10
+- Why: Fallback ranking (LLM JSON parse failed).
+- Link: https://internshala.com/internship/detail/work-from-home-machine-learning-internship-at-careernest1772776878
