@@ -1,12 +1,12 @@
 # Internship Intelligence Digest — 2026-03-08
 
-## Artificial Intelligence (AI)
+## AI & Automation
 - Source: Internshala
-- Company: Storybizz Media Private Limited
+- Company: Audym Lifesciences
 - Location: India
 - Score: 9/10
-- Why: Relevant to Artificial Intelligence (AI)
-- Link: https://internshala.com/internship/detail/artificial-intelligence-ai-internship-in-kolkata-at-storybizz-media-private-limited1772454731
+- Why: Relevant to AI and Automation
+- Link: https://internshala.com/internship/detail/ai-automation-internship-in-hyderabad-at-audym-lifesciences1771840698
 
 ## Data Science
 - Source: Internshala
@@ -40,13 +40,21 @@
 - Why: Relevant to AI/ML Engineer
 - Link: https://internshala.com/internship/detail/work-from-home-ai-ml-engineer-internship-at-namaah-pvt-ltd1772709486
 
-## AI & Automation
+## Machine Learning Engineer
 - Source: Internshala
-- Company: Audym Lifesciences
+- Company: TSTEPS PRIVATE LIMITED
+- Location: India
+- Score: 9/10
+- Why: Relevant to Machine Learning Engineer
+- Link: https://internshala.com/internship/detail/machine-learning-engineer-internship-in-multiple-locations-at-tsteps-private-limited1772714469
+
+## Artificial Intelligence (AI)
+- Source: Internshala
+- Company: Storybizz Media Private Limited
 - Location: India
 - Score: 8/10
-- Why: Relevant to AI & Automation
-- Link: https://internshala.com/internship/detail/ai-automation-internship-in-hyderabad-at-audym-lifesciences1771840698
+- Why: Relevant to AI and Data Science
+- Link: https://internshala.com/internship/detail/artificial-intelligence-ai-internship-in-kolkata-at-storybizz-media-private-limited1772454731
 
 ## AI Agent Development
 - Source: Internshala
@@ -55,11 +63,3 @@
 - Score: 8/10
 - Why: Relevant to AI Agent Development
 - Link: https://internshala.com/internship/detail/ai-agent-development-internship-in-delhi-at-growify-digital1772871051
-
-## AI Agent Development
-- Source: Internshala
-- Company: Unimonks
-- Location: India
-- Score: 8/10
-- Why: Relevant to AI Agent Development
-- Link: https://internshala.com/internship/detail/ai-agent-development-internship-in-delhi-at-unimonks1772815802
