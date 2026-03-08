@@ -1,5 +1,13 @@
 # Internship Intelligence Digest — 2026-03-08
 
+## Artificial Intelligence (AI)
+- Source: Internshala
+- Company: Storybizz Media Private Limited
+- Location: India
+- Score: 9/10
+- Why: Relevant to Artificial Intelligence (AI)
+- Link: https://internshala.com/internship/detail/artificial-intelligence-ai-internship-in-kolkata-at-storybizz-media-private-limited1772454731
+
 ## Data Science
 - Source: Internshala
 - Company: Random Groups Of Companies
@@ -47,14 +55,6 @@
 - Score: 8/10
 - Why: Relevant to AI Agent Development
 - Link: https://internshala.com/internship/detail/ai-agent-development-internship-in-delhi-at-growify-digital1772871051
-
-## Artificial Intelligence (AI)
-- Source: Internshala
-- Company: Storybizz Media Private Limited
-- Location: India
-- Score: 8/10
-- Why: Relevant to Artificial Intelligence (AI)
-- Link: https://internshala.com/internship/detail/artificial-intelligence-ai-internship-in-kolkata-at-storybizz-media-private-limited1772454731
 
 ## AI Agent Development
 - Source: Internshala
