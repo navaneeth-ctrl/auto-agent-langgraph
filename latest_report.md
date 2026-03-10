@@ -4,62 +4,62 @@
 - Source: Internshala
 - Company: Conversely
 - Location: India
-- Score: 7/10
-- Why: Fallback ranking (LLM JSON parse failed).
+- Score: 9/10
+- Why: Relevance to Data Science, ML, NLP, LLM, Python, SQL: 9
 - Link: https://internshala.com/internship/detail/ai-engineer-intern-internship-in-delhi-at-conversely1773052329
+
+## AI Agent Development
+- Source: Internshala
+- Company: IFOA
+- Location: India
+- Score: 9/10
+- Why: Relevance to Data Science, ML, NLP, LLM, Python, SQL: 9
+- Link: https://internshala.com/internship/detail/ai-agent-development-internship-in-delhi-at-ifoa1773072443
 
 ## Data And AI Engineer Intern
 - Source: Internshala
 - Company: Neoteric Analytics
 - Location: India
-- Score: 7/10
-- Why: Fallback ranking (LLM JSON parse failed).
+- Score: 9/10
+- Why: Relevance to Data Science, ML, NLP, LLM, Python, SQL: 9
 - Link: https://internshala.com/internship/detail/data-and-ai-engineer-intern-internship-in-delhi-at-neoteric-analytics1773048969
 
 ## AI / ML Engineering Intern
 - Source: Internshala
 - Company: Aurora Financials
 - Location: India
-- Score: 7/10
-- Why: Fallback ranking (LLM JSON parse failed).
+- Score: 9/10
+- Why: Relevance to Data Science, ML, NLP, LLM, Python, SQL: 9
 - Link: https://internshala.com/internship/detail/work-from-home-ai-ml-engineering-intern-internship-at-aurora-financials1772876827
 
-## Product Analyst Intern
-- Source: Internshala
-- Company: Material Depot
-- Location: India
-- Score: 7/10
-- Why: Fallback ranking (LLM JSON parse failed).
-- Link: https://internshala.com/internship/detail/product-analyst-intern-internship-in-bangalore-at-material-depot1772709188
-
-## Data Science
+## AI Agent Development
 - Source: Internshala
 - Company: Primetrade.ai
 - Location: India
-- Score: 7/10
-- Why: Fallback ranking (LLM JSON parse failed).
-- Link: https://internshala.com/internship/detail/work-from-home-data-science-internship-at-primetradeai1773057733
+- Score: 9/10
+- Why: Relevance to Data Science, ML, NLP, LLM, Python, SQL: 9
+- Link: https://internshala.com/internship/detail/work-from-home-ai-agent-development-internship-at-primetradeai1773058330
 
-## Data Science
+## AI Research (NARI)
 - Source: Internshala
-- Company: Newzeninfotech Solutions
+- Company: Namaah Pvt Ltd
 - Location: India
-- Score: 7/10
-- Why: Fallback ranking (LLM JSON parse failed).
-- Link: https://internshala.com/internship/detail/data-science-internship-in-hyderabad-at-newzeninfotech-solutions1773034207
+- Score: 9/10
+- Why: Relevance to Data Science, ML, NLP, LLM, Python, SQL: 9
+- Link: https://internshala.com/internship/detail/work-from-home-ai-research-nari-internship-at-namaah-pvt-ltd1772775317
 
-## Machine Learning
+## AI/ML Engineer
 - Source: Internshala
-- Company: Symonis
+- Company: Namaah Pvt Ltd
 - Location: India
-- Score: 7/10
-- Why: Fallback ranking (LLM JSON parse failed).
-- Link: https://internshala.com/internship/detail/work-from-home-machine-learning-internship-at-symonis1773029645
+- Score: 9/10
+- Why: Relevance to Data Science, ML, NLP, LLM, Python, SQL: 9
+- Link: https://internshala.com/internship/detail/work-from-home-ai-ml-engineer-internship-at-namaah-pvt-ltd1772709486
 
-## Machine Learning
+## AI Agent Development
 - Source: Internshala
-- Company: Cloud Back
+- Company: IvyTech Solutions, Inc
 - Location: India
-- Score: 7/10
-- Why: Fallback ranking (LLM JSON parse failed).
-- Link: https://internshala.com/internship/detail/work-from-home-machine-learning-internship-at-cloud-back1772941957
+- Score: 9/10
+- Why: Relevance to Data Science, ML, NLP, LLM, Python, SQL: 9
+- Link: https://internshala.com/internship/detail/work-from-home-part-time-ai-agent-development-internship-at-ivytech-solutions-inc1772892206
