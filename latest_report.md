@@ -1,65 +1,65 @@
 # Internship Intelligence Digest — 2026-03-10
 
-## AI Engineer Intern
+## Gen AI/LLM
 - Source: Internshala
-- Company: Conversely
+- Company: Resolute AI Software Private Limited
 - Location: India
 - Score: 9/10
-- Why: Relevance to Data Science, ML, NLP, LLM, Python, SQL: 9
-- Link: https://internshala.com/internship/detail/ai-engineer-intern-internship-in-delhi-at-conversely1773052329
+- Why: Relevant to Data Science, ML, LLM, Python, and SQL.
+- Link: https://internshala.com/internship/detail/work-from-home-gen-ai-llm-internship-at-resolute-ai-software-private-limited1773115793
+
+## AI Prompt Engineer – Generative Media
+- Source: Internshala
+- Company: Digital Dive
+- Location: India
+- Score: 9/10
+- Why: Relevant to Data Science, ML, NLP, LLM, Python, and SQL.
+- Link: https://internshala.com/internship/detail/ai-prompt-engineer--generative-media-internship-in-ludhiana-at-digital-dive1773119432
+
+## Artificial Intelligence (AI)
+- Source: Internshala
+- Company: Storybizz Media Private Limited
+- Location: India
+- Score: 8/10
+- Why: Relevant to Data Science, ML, AI, Python, and SQL.
+- Link: https://internshala.com/internship/detail/artificial-intelligence-ai-internship-in-kolkata-at-storybizz-media-private-limited1772454731
+
+## AI Stylist
+- Source: Internshala
+- Company: ODN Digital Services Private Limited
+- Location: India
+- Score: 8/10
+- Why: Relevant to Data Science, ML, AI, Python, and SQL.
+- Link: https://internshala.com/internship/detail/ai-stylist-internship-in-delhi-at-odn-digital-services-private-limited1773055001
+
+## Artificial Intelligence (AI)
+- Source: Internshala
+- Company: REALBRIDGE
+- Location: India
+- Score: 8/10
+- Why: Relevant to Data Science, ML, AI, Python, and SQL.
+- Link: https://internshala.com/internship/detail/artificial-intelligence-ai-internship-in-bangalore-at-realbridge1773066568
+
+## Artificial Intelligence (AI)
+- Source: Internshala
+- Company: WeJoy Phonfix Private Limited
+- Location: India
+- Score: 8/10
+- Why: Relevant to Data Science, ML, AI, Python, and SQL.
+- Link: https://internshala.com/internship/detail/work-from-home-artificial-intelligence-ai-internship-at-wejoy-phonfix-private-limited1773122431
 
 ## AI Agent Development
 - Source: Internshala
-- Company: IFOA
+- Company: Sarvan Labs
 - Location: India
-- Score: 9/10
-- Why: Relevance to Data Science, ML, NLP, LLM, Python, SQL: 9
-- Link: https://internshala.com/internship/detail/ai-agent-development-internship-in-delhi-at-ifoa1773072443
+- Score: 8/10
+- Why: Relevant to Data Science, ML, AI, Python, and SQL.
+- Link: https://internshala.com/internship/detail/work-from-home-ai-agent-development-internship-at-sarvan-labs1773119009
 
-## Data And AI Engineer Intern
+## AI/ML Engineering
 - Source: Internshala
-- Company: Neoteric Analytics
+- Company: Bizlem Private Limited
 - Location: India
-- Score: 9/10
-- Why: Relevance to Data Science, ML, NLP, LLM, Python, SQL: 9
-- Link: https://internshala.com/internship/detail/data-and-ai-engineer-intern-internship-in-delhi-at-neoteric-analytics1773048969
-
-## AI / ML Engineering Intern
-- Source: Internshala
-- Company: Aurora Financials
-- Location: India
-- Score: 9/10
-- Why: Relevance to Data Science, ML, NLP, LLM, Python, SQL: 9
-- Link: https://internshala.com/internship/detail/work-from-home-ai-ml-engineering-intern-internship-at-aurora-financials1772876827
-
-## AI Agent Development
-- Source: Internshala
-- Company: Primetrade.ai
-- Location: India
-- Score: 9/10
-- Why: Relevance to Data Science, ML, NLP, LLM, Python, SQL: 9
-- Link: https://internshala.com/internship/detail/work-from-home-ai-agent-development-internship-at-primetradeai1773058330
-
-## AI Research (NARI)
-- Source: Internshala
-- Company: Namaah Pvt Ltd
-- Location: India
-- Score: 9/10
-- Why: Relevance to Data Science, ML, NLP, LLM, Python, SQL: 9
-- Link: https://internshala.com/internship/detail/work-from-home-ai-research-nari-internship-at-namaah-pvt-ltd1772775317
-
-## AI/ML Engineer
-- Source: Internshala
-- Company: Namaah Pvt Ltd
-- Location: India
-- Score: 9/10
-- Why: Relevance to Data Science, ML, NLP, LLM, Python, SQL: 9
-- Link: https://internshala.com/internship/detail/work-from-home-ai-ml-engineer-internship-at-namaah-pvt-ltd1772709486
-
-## AI Agent Development
-- Source: Internshala
-- Company: IvyTech Solutions, Inc
-- Location: India
-- Score: 9/10
-- Why: Relevance to Data Science, ML, NLP, LLM, Python, SQL: 9
-- Link: https://internshala.com/internship/detail/work-from-home-part-time-ai-agent-development-internship-at-ivytech-solutions-inc1772892206
+- Score: 8/10
+- Why: Relevant to Data Science, ML, AI, Python, and SQL.
+- Link: https://internshala.com/internship/detail/ai-ml-engineering-internship-in-navi-mumbai-at-bizlem-private-limited1773118683
