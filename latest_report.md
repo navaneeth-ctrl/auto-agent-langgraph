@@ -1,65 +1,65 @@
 # Internship Intelligence Digest — 2026-03-10
 
-## Machine Learning Intern  OCR & Document AI
+## AI Content Creator
 - Source: Internshala
-- Company: Vite Tech IT Solutions Private Limited
+- Company: Brain Quest
 - Location: India
-- Score: 8/10
-- Why: Fallback ranking (LLM JSON parse failed).
-- Link: https://internshala.com/internship/detail/machine-learning-intern-ocr-document-ai-internship-in-madurai-at-vite-tech-it-solutions-private-limited1773136450
+- Score: 9/10
+- Why: AI Content Creator, company=Brain Quest, location=India, tags=['internshala']
+- Link: https://internshala.com/internship/detail/work-from-home-ai-content-creator-internship-at-brain-quest1773145349
 
-## AI/ML Intern
+## Artificial Intelligence (AI)
 - Source: Internshala
-- Company: Daice Labs
+- Company: Storybizz Media Private Limited
 - Location: India
-- Score: 7/10
-- Why: Fallback ranking (LLM JSON parse failed).
-- Link: https://internshala.com/internship/detail/work-from-home-ai-ml-intern-internship-at-daice-labs1773138067
+- Score: 9/10
+- Why: Artificial Intelligence (AI), company=Storybizz Media Private Limited, location=India, tags=['internshala']
+- Link: https://internshala.com/internship/detail/artificial-intelligence-ai-internship-in-kolkata-at-storybizz-media-private-limited1772454731
 
-## Physical AI Engineer (Internship)
+## AI/ML Python Developer With Full Stack Developer
 - Source: Internshala
-- Company: Xolver AI
+- Company: Fine Data Analytics Private Limited
 - Location: India
-- Score: 7/10
-- Why: Fallback ranking (LLM JSON parse failed).
-- Link: https://internshala.com/internship/detail/physical-ai-engineer-internship-internship-in-delhi-at-xolver-ai1773137709
-
-## Flutter Intern
-- Source: Internshala
-- Company: Darwix AI
-- Location: India
-- Score: 7/10
-- Why: Fallback ranking (LLM JSON parse failed).
-- Link: https://internshala.com/internship/detail/flutter-intern-internship-in-haryana-at-darwix-ai1773135848
-
-## Data And AI Engineer Intern
-- Source: Internshala
-- Company: Neoteric Analytics
-- Location: India
-- Score: 7/10
-- Why: Fallback ranking (LLM JSON parse failed).
-- Link: https://internshala.com/internship/detail/data-and-ai-engineer-intern-internship-in-delhi-at-neoteric-analytics1773048969
-
-## Machine Learning
-- Source: Internshala
-- Company: Cloud Back
-- Location: India
-- Score: 7/10
-- Why: Fallback ranking (LLM JSON parse failed).
-- Link: https://internshala.com/internship/detail/work-from-home-machine-learning-internship-at-cloud-back1773118788
-
-## Data Analytics
-- Source: Internshala
-- Company: Suresh Dani's Classes
-- Location: India
-- Score: 6/10
-- Why: Fallback ranking (LLM JSON parse failed).
-- Link: https://internshala.com/internship/detail/data-analytics-internship-in-mumbai-at-suresh-danis-classes1773131580
+- Score: 9/10
+- Why: AI/ML Python Developer With Full Stack Developer, company=Fine Data Analytics Private Limited, location=India, tags=['internshala']
+- Link: https://internshala.com/internship/detail/ai-ml-python-developer-with-full-stack-developer-internship-in-gurgaon-at-fine-data-analytics-private-limited1773138513
 
 ## AI Agent Development
 - Source: Internshala
 - Company: PHONEME SOLUTIONS PVT LTD
 - Location: India
-- Score: 6/10
-- Why: Fallback ranking (LLM JSON parse failed).
-- Link: https://internshala.com/internship/detail/ai-agent-development-internship-in-multiple-locations-at-phoneme-solutions-pvt-ltd1773127937
+- Score: 9/10
+- Why: AI Agent Development, company=PHONEME SOLUTIONS PVT LTD, location=India, tags=['internshala']
+- Link: https://internshala.com/internship/detail/ai-agent-development-internship-in-multiple-locations-at-phoneme-solutions-pvt-ltd1773125923
+
+## AI/ML Engineering
+- Source: Internshala
+- Company: Bizlem Private Limited
+- Location: India
+- Score: 9/10
+- Why: AI/ML Engineering, company=Bizlem Private Limited, location=India, tags=['internshala']
+- Link: https://internshala.com/internship/detail/ai-ml-engineering-internship-in-navi-mumbai-at-bizlem-private-limited1773118683
+
+## Machine Learning Intern  OCR & Document AI
+- Source: Internshala
+- Company: Vite Tech IT Solutions Private Limited
+- Location: India
+- Score: 9/10
+- Why: Machine Learning Intern  OCR & Document AI, company=Vite Tech IT Solutions Private Limited, location=India, tags=['internshala']
+- Link: https://internshala.com/internship/detail/machine-learning-intern-ocr-document-ai-internship-in-madurai-at-vite-tech-it-solutions-private-limited1773136450
+
+## AI/ML Engineer
+- Source: Internshala
+- Company: Schoollog (a Venture Of LB Microtechnologies Private Limited)
+- Location: India
+- Score: 9/10
+- Why: AI/ML Engineer, company=Schoollog (a Venture Of LB Microtechnologies Private Limited), location=India, tags=['internshala']
+- Link: https://internshala.com/internship/detail/ai-ml-engineer-internship-in-jaipur-at-schoollog-a-venture-of-lb-microtechnologies-private-limited1773128764
+
+## Gen AI/LLM
+- Source: Internshala
+- Company: Resolute AI Software Private Limited
+- Location: India
+- Score: 9/10
+- Why: Gen AI/LLM, company=Resolute AI Software Private Limited, location=India, tags=['internshala']
+- Link: https://internshala.com/internship/detail/work-from-home-gen-ai-llm-internship-at-resolute-ai-software-private-limited1773115793
