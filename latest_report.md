@@ -1,65 +1,65 @@
 # Internship Intelligence Digest — 2026-03-10
 
-## Data Engineer
+## Machine Learning Intern  OCR & Document AI
 - Source: Internshala
-- Company: Superhealth
+- Company: Vite Tech IT Solutions Private Limited
 - Location: India
-- Score: 9/10
-- Why: Data Engineer, internshala, relevance to Data Science, ML, Python, SQL
-- Link: https://internshala.com/internship/detail/data-engineer-internship-in-bangalore-at-superhealth1773128906
+- Score: 8/10
+- Why: Fallback ranking (LLM JSON parse failed).
+- Link: https://internshala.com/internship/detail/machine-learning-intern-ocr-document-ai-internship-in-madurai-at-vite-tech-it-solutions-private-limited1773136450
 
-## AI/ML Developer
+## AI/ML Intern
 - Source: Internshala
-- Company: BharatX Genai Private Limited
+- Company: Daice Labs
 - Location: India
-- Score: 9/10
-- Why: AI/ML Developer, internshala, relevance to Data Science, ML, Python
-- Link: https://internshala.com/internship/detail/ai-ml-developer-internship-in-delhi-at-bharatx-genai-private-limited1773128045
+- Score: 7/10
+- Why: Fallback ranking (LLM JSON parse failed).
+- Link: https://internshala.com/internship/detail/work-from-home-ai-ml-intern-internship-at-daice-labs1773138067
 
-## Data Engineering
+## Physical AI Engineer (Internship)
 - Source: Internshala
-- Company: Rebel Foods Private Limited
+- Company: Xolver AI
 - Location: India
-- Score: 9/10
-- Why: Data Engineering, internshala, relevance to Data Science, ML, Python, SQL
-- Link: https://internshala.com/internship/detail/data-engineering-internship-in-mumbai-at-rebel-foods-private-limited1773128853
+- Score: 7/10
+- Why: Fallback ranking (LLM JSON parse failed).
+- Link: https://internshala.com/internship/detail/physical-ai-engineer-internship-internship-in-delhi-at-xolver-ai1773137709
 
-## Gen AI/LLM
+## Flutter Intern
 - Source: Internshala
-- Company: Resolute AI Software Private Limited
+- Company: Darwix AI
 - Location: India
-- Score: 9/10
-- Why: Gen AI/LLM, internshala, relevance to Data Science, ML, NLP, LLM, Python
-- Link: https://internshala.com/internship/detail/work-from-home-gen-ai-llm-internship-at-resolute-ai-software-private-limited1773115793
+- Score: 7/10
+- Why: Fallback ranking (LLM JSON parse failed).
+- Link: https://internshala.com/internship/detail/flutter-intern-internship-in-haryana-at-darwix-ai1773135848
 
-## AI/ML Engineering – Agentic AI Systems
+## Data And AI Engineer Intern
 - Source: Internshala
-- Company: Guruvai Sciences
+- Company: Neoteric Analytics
 - Location: India
-- Score: 9/10
-- Why: AI/ML Engineering – Agentic AI Systems, internshala, relevance to Data Science, ML, Python
-- Link: https://internshala.com/internship/detail/work-from-home-ai-ml-engineering--agentic-ai-systems-internship-at-guruvai-sciences1773130839
+- Score: 7/10
+- Why: Fallback ranking (LLM JSON parse failed).
+- Link: https://internshala.com/internship/detail/data-and-ai-engineer-intern-internship-in-delhi-at-neoteric-analytics1773048969
 
-## AI/ML Engineer
+## Machine Learning
 - Source: Internshala
-- Company: Schoollog (a Venture Of LB Microtechnologies Private Limited)
+- Company: Cloud Back
 - Location: India
-- Score: 9/10
-- Why: AI/ML Engineer, internshala, relevance to Data Science, ML, Python
-- Link: https://internshala.com/internship/detail/ai-ml-engineer-internship-in-jaipur-at-schoollog-a-venture-of-lb-microtechnologies-private-limited1773128764
-
-## AI/ML Engineering
-- Source: Internshala
-- Company: Bizlem Private Limited
-- Location: India
-- Score: 9/10
-- Why: AI/ML Engineering, internshala, relevance to Data Science, ML, Python
-- Link: https://internshala.com/internship/detail/ai-ml-engineering-internship-in-navi-mumbai-at-bizlem-private-limited1773118683
+- Score: 7/10
+- Why: Fallback ranking (LLM JSON parse failed).
+- Link: https://internshala.com/internship/detail/work-from-home-machine-learning-internship-at-cloud-back1773118788
 
 ## Data Analytics
 - Source: Internshala
 - Company: Suresh Dani's Classes
 - Location: India
-- Score: 8/10
-- Why: Data Analytics, internshala, relevance to Data Science, Python, SQL
+- Score: 6/10
+- Why: Fallback ranking (LLM JSON parse failed).
 - Link: https://internshala.com/internship/detail/data-analytics-internship-in-mumbai-at-suresh-danis-classes1773131580
+
+## AI Agent Development
+- Source: Internshala
+- Company: PHONEME SOLUTIONS PVT LTD
+- Location: India
+- Score: 6/10
+- Why: Fallback ranking (LLM JSON parse failed).
+- Link: https://internshala.com/internship/detail/ai-agent-development-internship-in-multiple-locations-at-phoneme-solutions-pvt-ltd1773127937
