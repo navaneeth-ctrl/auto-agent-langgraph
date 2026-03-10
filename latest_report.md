@@ -5,7 +5,7 @@
 - Company: Fine Data Analytics Private Limited
 - Location: India
 - Score: 9/10
-- Why: AI/ML Python Developer With Full Stack Developer is related to ML, NLP, LLM and Python.
+- Why: AI/ML Python Developer With Full Stack Developer is related to ML, NLP, LLM, Python.
 - Link: https://internshala.com/internship/detail/ai-ml-python-developer-with-full-stack-developer-internship-in-gurgaon-at-fine-data-analytics-private-limited1773138513
 
 ## Machine Learning Intern  OCR & Document AI
@@ -13,7 +13,7 @@
 - Company: Vite Tech IT Solutions Private Limited
 - Location: India
 - Score: 9/10
-- Why: Machine Learning Intern  OCR & Document AI is related to ML, NLP, LLM and Python.
+- Why: Machine Learning Intern  OCR & Document AI is related to ML, NLP, LLM.
 - Link: https://internshala.com/internship/detail/machine-learning-intern-ocr-document-ai-internship-in-madurai-at-vite-tech-it-solutions-private-limited1773136450
 
 ## Gen AI/LLM
@@ -21,7 +21,7 @@
 - Company: Resolute AI Software Private Limited
 - Location: India
 - Score: 9/10
-- Why: Gen AI/LLM is related to NLP, LLM and Python.
+- Why: Gen AI/LLM is related to NLP, LLM.
 - Link: https://internshala.com/internship/detail/work-from-home-gen-ai-llm-internship-at-resolute-ai-software-private-limited1773115793
 
 ## AI Agent Development
@@ -29,15 +29,23 @@
 - Company: PHONEME SOLUTIONS PVT LTD
 - Location: India
 - Score: 8/10
-- Why: AI Agent Development is related to ML, NLP, LLM and Python.
+- Why: AI Agent Development is related to ML, NLP, LLM.
 - Link: https://internshala.com/internship/detail/ai-agent-development-internship-in-multiple-locations-at-phoneme-solutions-pvt-ltd1773127937
+
+## AI Content Creator
+- Source: Internshala
+- Company: Brain Quest
+- Location: India
+- Score: 8/10
+- Why: AI Content Creator is related to NLP, LLM.
+- Link: https://internshala.com/internship/detail/work-from-home-ai-content-creator-internship-at-brain-quest1773145349
 
 ## Artificial Intelligence (AI)
 - Source: Internshala
 - Company: Storybizz Media Private Limited
 - Location: India
 - Score: 8/10
-- Why: Artificial Intelligence (AI) is related to ML, NLP, LLM and Python.
+- Why: Artificial Intelligence (AI) is related to ML, NLP, LLM.
 - Link: https://internshala.com/internship/detail/artificial-intelligence-ai-internship-in-kolkata-at-storybizz-media-private-limited1772454731
 
 ## AI Stylist
@@ -45,21 +53,13 @@
 - Company: ODN Digital Services Private Limited
 - Location: India
 - Score: 8/10
-- Why: AI Stylist is related to NLP, LLM and Python.
+- Why: AI Stylist is related to NLP, LLM.
 - Link: https://internshala.com/internship/detail/ai-stylist-internship-in-delhi-at-odn-digital-services-private-limited1773055001
 
-## AI Prompt Engineer – Generative Media
+## AI Video Generative
 - Source: Internshala
-- Company: Digital Dive
+- Company: FLUTTERING INFOTECH (OPC) PRIVATE LIMITED
 - Location: India
 - Score: 8/10
-- Why: AI Prompt Engineer – Generative Media is related to NLP, LLM and Python.
-- Link: https://internshala.com/internship/detail/ai-prompt-engineer--generative-media-internship-in-ludhiana-at-digital-dive1773119432
-
-## AI/ML Engineering
-- Source: Internshala
-- Company: Bizlem Private Limited
-- Location: India
-- Score: 8/10
-- Why: AI/ML Engineering is related to ML, NLP, LLM and Python.
-- Link: https://internshala.com/internship/detail/ai-ml-engineering-internship-in-navi-mumbai-at-bizlem-private-limited1773118683
+- Why: AI Video Generative is related to ML, NLP, LLM.
+- Link: https://internshala.com/internship/detail/work-from-home-ai-video-generative-internship-at-fluttering-infotech-opc-private-limited1773156658
