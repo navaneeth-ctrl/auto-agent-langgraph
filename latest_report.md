@@ -1,65 +1,65 @@
 # Internship Intelligence Digest — 2026-03-11
 
-## Artificial Intelligence (AI)
+## AI/ML Intern
 - Source: Internshala
-- Company: Storybizz Media Private Limited
+- Company: Daice Labs
 - Location: India
-- Score: 10/10
-- Why: Artificial Intelligence (AI)
-- Link: https://internshala.com/internship/detail/artificial-intelligence-ai-internship-in-kolkata-at-storybizz-media-private-limited1772454731
+- Score: 9/10
+- Why: Relevant to AI/ML
+- Link: https://internshala.com/internship/detail/work-from-home-ai-ml-intern-internship-at-daice-labs1773138067
 
-## AI Stylist
+## Machine Learning Intern  OCR & Document AI
 - Source: Internshala
-- Company: ODN Digital Services Private Limited
+- Company: Vite Tech IT Solutions Private Limited
 - Location: India
-- Score: 10/10
-- Why: AI Stylist
-- Link: https://internshala.com/internship/detail/ai-stylist-internship-in-delhi-at-odn-digital-services-private-limited1773055001
+- Score: 9/10
+- Why: Relevant to Machine Learning
+- Link: https://internshala.com/internship/detail/machine-learning-intern-ocr-document-ai-internship-in-madurai-at-vite-tech-it-solutions-private-limited1773136450
 
-## AI Content Creator
+## Machine Learning
 - Source: Internshala
-- Company: Brain Quest
+- Company: Symonis
 - Location: India
-- Score: 10/10
-- Why: AI Content Creator
-- Link: https://internshala.com/internship/detail/work-from-home-ai-content-creator-internship-at-brain-quest1773145349
-
-## Project Associate – AI Operations
-- Source: Internshala
-- Company: ConsultBae
-- Location: India
-- Score: 10/10
-- Why: Project Associate – AI Operations
-- Link: https://internshala.com/internship/detail/work-from-home-project-associate--ai-operations-internship-at-consultbae1773137330
-
-## AI Product Entry And Marketing.
-- Source: Internshala
-- Company: Jai Rajaji Stone Studio
-- Location: India
-- Score: 10/10
-- Why: AI Product Entry And Marketing.
-- Link: https://internshala.com/internship/detail/ai-product-entry-and-marketing-internship-in-hyderabad-at-jai-rajaji-stone-studio1772436373
-
-## AI Video Generative
-- Source: Internshala
-- Company: FLUTTERING INFOTECH (OPC) PRIVATE LIMITED
-- Location: India
-- Score: 10/10
-- Why: AI Video Generative
-- Link: https://internshala.com/internship/detail/work-from-home-ai-video-generative-internship-at-fluttering-infotech-opc-private-limited1773156658
+- Score: 9/10
+- Why: Relevant to Machine Learning
+- Link: https://internshala.com/internship/detail/work-from-home-machine-learning-internship-at-symonis1773206490
 
 ## AI/ML Python Developer With Full Stack Developer
 - Source: Internshala
 - Company: Fine Data Analytics Private Limited
 - Location: India
-- Score: 10/10
-- Why: AI/ML Python Developer With Full Stack Developer
+- Score: 9/10
+- Why: Relevant to AI/ML Python Developer
 - Link: https://internshala.com/internship/detail/ai-ml-python-developer-with-full-stack-developer-internship-in-gurgaon-at-fine-data-analytics-private-limited1773138513
+
+## AI/ML Engineering – Agentic AI Systems
+- Source: Internshala
+- Company: Guruvai Sciences
+- Location: India
+- Score: 9/10
+- Why: Relevant to AI/ML Engineering
+- Link: https://internshala.com/internship/detail/work-from-home-ai-ml-engineering--agentic-ai-systems-internship-at-guruvai-sciences1773130839
+
+## AI/ML Developer
+- Source: Internshala
+- Company: BharatX Genai Private Limited
+- Location: India
+- Score: 9/10
+- Why: Relevant to AI/ML Developer
+- Link: https://internshala.com/internship/detail/ai-ml-developer-internship-in-delhi-at-bharatx-genai-private-limited1773128045
+
+## Machine Learning
+- Source: Internshala
+- Company: Cloud Back
+- Location: India
+- Score: 9/10
+- Why: Relevant to Machine Learning
+- Link: https://internshala.com/internship/detail/work-from-home-machine-learning-internship-at-cloud-back1773118788
 
 ## AI/ML Engineering
 - Source: Internshala
 - Company: Bizlem Private Limited
 - Location: India
-- Score: 10/10
-- Why: AI/ML Engineering
+- Score: 9/10
+- Why: Relevant to AI/ML Engineering
 - Link: https://internshala.com/internship/detail/ai-ml-engineering-internship-in-navi-mumbai-at-bizlem-private-limited1773118683
