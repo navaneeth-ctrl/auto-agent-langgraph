@@ -1,65 +1,65 @@
 # Internship Intelligence Digest — 2026-03-11
 
-## AI/ML Intern
-- Source: Internshala
-- Company: Daice Labs
-- Location: India
-- Score: 9/10
-- Why: Relevant to AI/ML
-- Link: https://internshala.com/internship/detail/work-from-home-ai-ml-intern-internship-at-daice-labs1773138067
-
 ## Machine Learning Intern  OCR & Document AI
 - Source: Internshala
 - Company: Vite Tech IT Solutions Private Limited
 - Location: India
 - Score: 9/10
-- Why: Relevant to Machine Learning
+- Why: Machine Learning Intern  OCR & Document AI at Vite Tech IT Solutions Private Limited is related to ML.
 - Link: https://internshala.com/internship/detail/machine-learning-intern-ocr-document-ai-internship-in-madurai-at-vite-tech-it-solutions-private-limited1773136450
 
-## Machine Learning
+## Gen AI/LLM
 - Source: Internshala
-- Company: Symonis
+- Company: Resolute AI Software Private Limited
 - Location: India
 - Score: 9/10
-- Why: Relevant to Machine Learning
-- Link: https://internshala.com/internship/detail/work-from-home-machine-learning-internship-at-symonis1773206490
+- Why: Gen AI/LLM at Resolute AI Software Private Limited is related to LLM.
+- Link: https://internshala.com/internship/detail/work-from-home-gen-ai-llm-internship-at-resolute-ai-software-private-limited1773115793
 
-## AI/ML Python Developer With Full Stack Developer
+## AI Video Generative
 - Source: Internshala
-- Company: Fine Data Analytics Private Limited
+- Company: FLUTTERING INFOTECH (OPC) PRIVATE LIMITED
 - Location: India
-- Score: 9/10
-- Why: Relevant to AI/ML Python Developer
-- Link: https://internshala.com/internship/detail/ai-ml-python-developer-with-full-stack-developer-internship-in-gurgaon-at-fine-data-analytics-private-limited1773138513
+- Score: 8/10
+- Why: AI Video Generative at FLUTTERING INFOTECH (OPC) PRIVATE LIMITED is related to LLM.
+- Link: https://internshala.com/internship/detail/work-from-home-ai-video-generative-internship-at-fluttering-infotech-opc-private-limited1773156658
 
-## AI/ML Engineering – Agentic AI Systems
+## AI Prompt Engineer – Generative Media
 - Source: Internshala
-- Company: Guruvai Sciences
+- Company: Digital Dive
 - Location: India
-- Score: 9/10
-- Why: Relevant to AI/ML Engineering
-- Link: https://internshala.com/internship/detail/work-from-home-ai-ml-engineering--agentic-ai-systems-internship-at-guruvai-sciences1773130839
+- Score: 8/10
+- Why: AI Prompt Engineer – Generative Media at Digital Dive is related to LLM.
+- Link: https://internshala.com/internship/detail/ai-prompt-engineer--generative-media-internship-in-ludhiana-at-digital-dive1773119432
 
-## AI/ML Developer
+## AI/ML Intern
 - Source: Internshala
-- Company: BharatX Genai Private Limited
+- Company: Daice Labs
 - Location: India
-- Score: 9/10
-- Why: Relevant to AI/ML Developer
-- Link: https://internshala.com/internship/detail/ai-ml-developer-internship-in-delhi-at-bharatx-genai-private-limited1773128045
+- Score: 8/10
+- Why: AI/ML Intern at Daice Labs is related to ML.
+- Link: https://internshala.com/internship/detail/work-from-home-ai-ml-intern-internship-at-daice-labs1773138067
 
-## Machine Learning
+## Data And AI Engineer Intern
 - Source: Internshala
-- Company: Cloud Back
+- Company: Neoteric Analytics
 - Location: India
-- Score: 9/10
-- Why: Relevant to Machine Learning
-- Link: https://internshala.com/internship/detail/work-from-home-machine-learning-internship-at-cloud-back1773118788
+- Score: 8/10
+- Why: Data And AI Engineer Intern at Neoteric Analytics is related to Data Science.
+- Link: https://internshala.com/internship/detail/data-and-ai-engineer-intern-internship-in-delhi-at-neoteric-analytics1773048969
 
-## AI/ML Engineering
+## Data Science
 - Source: Internshala
-- Company: Bizlem Private Limited
+- Company: Suresh Dani's Classes
 - Location: India
-- Score: 9/10
-- Why: Relevant to AI/ML Engineering
-- Link: https://internshala.com/internship/detail/ai-ml-engineering-internship-in-navi-mumbai-at-bizlem-private-limited1773118683
+- Score: 8/10
+- Why: Data Science at Suresh Dani's Classes is related to Data Science.
+- Link: https://internshala.com/internship/detail/data-science-internship-in-mumbai-at-suresh-danis-classes1773223570
+
+## Artificial Intelligence (AI)
+- Source: Internshala
+- Company: Suresh Dani's Classes
+- Location: India
+- Score: 8/10
+- Why: Artificial Intelligence (AI) at Suresh Dani's Classes is related to AI.
+- Link: https://internshala.com/internship/detail/artificial-intelligence-ai-internship-in-mumbai-at-suresh-danis-classes1773219891
