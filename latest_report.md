@@ -1,65 +1,65 @@
 # Internship Intelligence Digest — 2026-03-11
 
-## Machine Learning Intern  OCR & Document AI
+## Data Science
 - Source: Internshala
-- Company: Vite Tech IT Solutions Private Limited
+- Company: MCube AI Private Limited
 - Location: India
-- Score: 8/10
-- Why: Fallback ranking (LLM JSON parse failed).
-- Link: https://internshala.com/internship/detail/machine-learning-intern-ocr-document-ai-internship-in-madurai-at-vite-tech-it-solutions-private-limited1773136450
+- Score: 9/10
+- Why: Data Science company
+- Link: https://internshala.com/internship/detail/data-science-internship-in-multiple-locations-at-mcube-ai-private-limited1773207870
+
+## Data Engineering
+- Source: Internshala
+- Company: Rebel Foods Private Limited
+- Location: India
+- Score: 9/10
+- Why: Data Engineering company
+- Link: https://internshala.com/internship/detail/data-engineering-internship-in-mumbai-at-rebel-foods-private-limited1773128853
+
+## Artificial Intelligence (AI)
+- Source: Internshala
+- Company: Storybizz Media Private Limited
+- Location: India
+- Score: 9/10
+- Why: Artificial Intelligence (AI) company
+- Link: https://internshala.com/internship/detail/artificial-intelligence-ai-internship-in-kolkata-at-storybizz-media-private-limited1772454731
+
+## AI/ML Engineering
+- Source: Internshala
+- Company: Bizlem Private Limited
+- Location: India
+- Score: 9/10
+- Why: AI/ML Engineering company
+- Link: https://internshala.com/internship/detail/ai-ml-engineering-internship-in-navi-mumbai-at-bizlem-private-limited1773118683
 
 ## AI/ML Intern
 - Source: Internshala
 - Company: Daice Labs
 - Location: India
-- Score: 7/10
-- Why: Fallback ranking (LLM JSON parse failed).
+- Score: 9/10
+- Why: AI/ML Intern company
 - Link: https://internshala.com/internship/detail/work-from-home-ai-ml-intern-internship-at-daice-labs1773138067
 
-## Physical AI Engineer (Internship)
+## Machine Learning Intern  OCR & Document AI
 - Source: Internshala
-- Company: Xolver AI
+- Company: Vite Tech IT Solutions Private Limited
 - Location: India
-- Score: 7/10
-- Why: Fallback ranking (LLM JSON parse failed).
-- Link: https://internshala.com/internship/detail/physical-ai-engineer-internship-internship-in-delhi-at-xolver-ai1773137709
-
-## Flutter Intern
-- Source: Internshala
-- Company: Darwix AI
-- Location: India
-- Score: 7/10
-- Why: Fallback ranking (LLM JSON parse failed).
-- Link: https://internshala.com/internship/detail/flutter-intern-internship-in-haryana-at-darwix-ai1773135848
+- Score: 9/10
+- Why: Machine Learning Intern  OCR & Document AI company
+- Link: https://internshala.com/internship/detail/machine-learning-intern-ocr-document-ai-internship-in-madurai-at-vite-tech-it-solutions-private-limited1773136450
 
 ## Data And AI Engineer Intern
 - Source: Internshala
 - Company: Neoteric Analytics
 - Location: India
-- Score: 7/10
-- Why: Fallback ranking (LLM JSON parse failed).
+- Score: 9/10
+- Why: Data And AI Engineer Intern company
 - Link: https://internshala.com/internship/detail/data-and-ai-engineer-intern-internship-in-delhi-at-neoteric-analytics1773048969
 
-## Machine Learning
+## AI/ML Engineering – Agentic AI Systems
 - Source: Internshala
-- Company: Cloud Back
+- Company: Guruvai Sciences
 - Location: India
-- Score: 7/10
-- Why: Fallback ranking (LLM JSON parse failed).
-- Link: https://internshala.com/internship/detail/work-from-home-machine-learning-internship-at-cloud-back1773118788
-
-## AI Engineer Intern
-- Source: Internshala
-- Company: Conversely
-- Location: India
-- Score: 7/10
-- Why: Fallback ranking (LLM JSON parse failed).
-- Link: https://internshala.com/internship/detail/ai-engineer-intern-internship-in-delhi-at-conversely1773052329
-
-## AI Agent Development
-- Source: Internshala
-- Company: PHONEME SOLUTIONS PVT LTD
-- Location: India
-- Score: 6/10
-- Why: Fallback ranking (LLM JSON parse failed).
-- Link: https://internshala.com/internship/detail/ai-agent-development-internship-in-multiple-locations-at-phoneme-solutions-pvt-ltd1773127937
+- Score: 9/10
+- Why: AI/ML Engineering – Agentic AI Systems company
+- Link: https://internshala.com/internship/detail/work-from-home-ai-ml-engineering--agentic-ai-systems-internship-at-guruvai-sciences1773130839
