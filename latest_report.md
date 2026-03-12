@@ -4,62 +4,62 @@
 - Source: Internshala
 - Company: EROEI Tech Private Limited
 - Location: India
-- Score: 9/10
-- Why: Generative AI is related to ML and LLM.
+- Score: 8/10
+- Why: Relevant to Data Science, ML, and AI
 - Link: https://internshala.com/internship/detail/generative-ai-intent-to-hire-internship-in-bangalore-at-eroei-tech-private-limited1773293040
+
+## AI Filmmaking
+- Source: Internshala
+- Company: Tealbox Digital
+- Location: India
+- Score: 8/10
+- Why: Relevant to AI and Filmmaking
+- Link: https://internshala.com/internship/detail/work-from-home-ai-filmmaking-internship-at-tealbox-digital1773309168
+
+## AI Process Implementor
+- Source: Internshala
+- Company: White & Co
+- Location: India
+- Score: 8/10
+- Why: Relevant to AI and Process Implementor
+- Link: https://internshala.com/internship/detail/ai-process-implementor-internship-in-coimbatore-at-white-co1772705282
+
+## Data Engineering
+- Source: Internshala
+- Company: Rebel Foods Private Limited
+- Location: India
+- Score: 8/10
+- Why: Relevant to Data Engineering
+- Link: https://internshala.com/internship/detail/data-engineering-internship-in-mumbai-at-rebel-foods-private-limited1773316175
+
+## Data Engineering
+- Source: Internshala
+- Company: Rebel Foods Private Limited
+- Location: India
+- Score: 8/10
+- Why: Relevant to Data Engineering
+- Link: https://internshala.com/internship/detail/data-engineering-internship-in-mumbai-at-rebel-foods-private-limited1773128853
+
+## Medical Data Contributor – Doctor Prescription Dataset (OCR Project)
+- Source: Internshala
+- Company: Globik AI Private Limited
+- Location: India
+- Score: 8/10
+- Why: Relevant to Medical Data and OCR
+- Link: https://internshala.com/internship/detail/work-from-home-part-time-medical-data-contributor--doctor-prescription-dataset-ocr-project-internship-at-globik-ai-private-limited1773302575
 
 ## AI Agent Development
 - Source: Internshala
 - Company: Vriddhikar Society
 - Location: India
-- Score: 9/10
-- Why: AI Agent Development is related to ML.
+- Score: 8/10
+- Why: Relevant to AI Agent Development
 - Link: https://internshala.com/internship/detail/work-from-home-ai-agent-development-internship-at-vriddhikar-society1773290367
 
-## AI/ML Intern
+## AI Content Creator
 - Source: Internshala
-- Company: Daice Labs
+- Company: Brain Quest
 - Location: India
-- Score: 9/10
-- Why: AI/ML Intern is related to ML.
-- Link: https://internshala.com/internship/detail/work-from-home-ai-ml-intern-internship-at-daice-labs1773138067
-
-## Machine Learning
-- Source: Internshala
-- Company: Cloud Back
-- Location: India
-- Score: 9/10
-- Why: Machine Learning is related to ML.
-- Link: https://internshala.com/internship/detail/work-from-home-machine-learning-internship-at-cloud-back1773292957
-
-## Machine Learning (Modeling + Evaluation)
-- Source: Internshala
-- Company: Primetrade.ai
-- Location: India
-- Score: 9/10
-- Why: Machine Learning (Modeling + Evaluation) is related to ML.
-- Link: https://internshala.com/internship/detail/work-from-home-machine-learning-modeling-evaluation-internship-at-primetradeai1773287801
-
-## AI Agent Development
-- Source: Internshala
-- Company: Vexocore IT Services Private Limited
-- Location: India
-- Score: 9/10
-- Why: AI Agent Development is related to ML.
-- Link: https://internshala.com/internship/detail/work-from-home-ai-agent-development-internship-at-vexocore-it-services-private-limited1773264773
-
-## Machine Learning
-- Source: Internshala
-- Company: Symonis
-- Location: India
-- Score: 9/10
-- Why: Machine Learning is related to ML.
-- Link: https://internshala.com/internship/detail/work-from-home-machine-learning-internship-at-symonis1773206490
-
-## AI/ML Engineering – Agentic AI Systems
-- Source: Internshala
-- Company: Guruvai Sciences
-- Location: India
-- Score: 9/10
-- Why: AI/ML Engineering is related to ML.
-- Link: https://internshala.com/internship/detail/work-from-home-ai-ml-engineering--agentic-ai-systems-internship-at-guruvai-sciences1773130839
+- Score: 8/10
+- Why: Relevant to AI Content Creation
+- Link: https://internshala.com/internship/detail/work-from-home-ai-content-creator-internship-at-brain-quest1773236133
