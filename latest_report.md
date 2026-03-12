@@ -1,4 +1,44 @@
-# Internship Intelligence Digest — 2026-03-11
+# Internship Intelligence Digest — 2026-03-12
+
+## AI Content Creator
+- Source: Internshala
+- Company: Brain Quest
+- Location: India
+- Score: 9/10
+- Why: AI Content Creator
+- Link: https://internshala.com/internship/detail/work-from-home-ai-content-creator-internship-at-brain-quest1773236133
+
+## AI Agent Development
+- Source: Internshala
+- Company: Vexocore IT Services Private Limited
+- Location: India
+- Score: 9/10
+- Why: AI Agent Development
+- Link: https://internshala.com/internship/detail/work-from-home-ai-agent-development-internship-at-vexocore-it-services-private-limited1773264773
+
+## Artificial Intelligence (AI)
+- Source: Internshala
+- Company: Storybizz Media Private Limited
+- Location: India
+- Score: 9/10
+- Why: Artificial Intelligence (AI)
+- Link: https://internshala.com/internship/detail/artificial-intelligence-ai-internship-in-kolkata-at-storybizz-media-private-limited1772454731
+
+## AI Stylist
+- Source: Internshala
+- Company: ODN Digital Services Private Limited
+- Location: India
+- Score: 9/10
+- Why: AI Stylist
+- Link: https://internshala.com/internship/detail/ai-stylist-internship-in-delhi-at-odn-digital-services-private-limited1773055001
+
+## Artificial Intelligence (AI)
+- Source: Internshala
+- Company: AmRit Hub Private Limited
+- Location: India
+- Score: 9/10
+- Why: Artificial Intelligence (AI)
+- Link: https://internshala.com/internship/detail/part-time-artificial-intelligence-ai-internship-in-kolkata-at-amrit-hub-private-limited1773224255
 
 ## AI/ML Intern
 - Source: Internshala
@@ -8,58 +48,18 @@
 - Why: AI/ML Intern
 - Link: https://internshala.com/internship/detail/work-from-home-ai-ml-intern-internship-at-daice-labs1773138067
 
-## Data Science
+## AI-Native Product Management Intern
 - Source: Internshala
-- Company: MCube AI Private Limited
+- Company: DeHaat
 - Location: India
 - Score: 9/10
-- Why: Data Science
-- Link: https://internshala.com/internship/detail/data-science-internship-in-multiple-locations-at-mcube-ai-private-limited1773207870
+- Why: AI-Native Product Management Intern
+- Link: https://internshala.com/internship/detail/ai-native-product-management-intern-internship-in-haryana-at-dehaat1773135728
 
-## Data Science
+## Data And AI Engineer Intern
 - Source: Internshala
-- Company: Suresh Dani's Classes
+- Company: Neoteric Analytics
 - Location: India
 - Score: 9/10
-- Why: Data Science
-- Link: https://internshala.com/internship/detail/data-science-internship-in-mumbai-at-suresh-danis-classes1773223570
-
-## AI/ML Engineering – Agentic AI Systems
-- Source: Internshala
-- Company: Guruvai Sciences
-- Location: India
-- Score: 9/10
-- Why: AI/ML Engineering – Agentic AI Systems
-- Link: https://internshala.com/internship/detail/work-from-home-ai-ml-engineering--agentic-ai-systems-internship-at-guruvai-sciences1773130839
-
-## AI/ML Developer
-- Source: Internshala
-- Company: BharatX Genai Private Limited
-- Location: India
-- Score: 9/10
-- Why: AI/ML Developer
-- Link: https://internshala.com/internship/detail/ai-ml-developer-internship-in-delhi-at-bharatx-genai-private-limited1773128045
-
-## AI/ML Engineering
-- Source: Internshala
-- Company: Bizlem Private Limited
-- Location: India
-- Score: 9/10
-- Why: AI/ML Engineering
-- Link: https://internshala.com/internship/detail/ai-ml-engineering-internship-in-navi-mumbai-at-bizlem-private-limited1773118683
-
-## Gen AI/LLM
-- Source: Internshala
-- Company: Resolute AI Software Private Limited
-- Location: India
-- Score: 9/10
-- Why: Gen AI/LLM
-- Link: https://internshala.com/internship/detail/work-from-home-gen-ai-llm-internship-at-resolute-ai-software-private-limited1773115793
-
-## Business Analytics
-- Source: Internshala
-- Company: Suresh Dani's Classes
-- Location: India
-- Score: 8/10
-- Why: Business Analytics
-- Link: https://internshala.com/internship/detail/business-analytics-internship-in-mumbai-at-suresh-danis-classes1773141872
+- Why: Data And AI Engineer Intern
+- Link: https://internshala.com/internship/detail/data-and-ai-engineer-intern-internship-in-delhi-at-neoteric-analytics1773048969
