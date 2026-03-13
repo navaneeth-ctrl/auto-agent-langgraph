@@ -1,65 +1,65 @@
 # Internship Intelligence Digest — 2026-03-13
 
-## Gen AI/LLM
+## Data Science
 - Source: Internshala
-- Company: Resolute AI Software Private Limited
+- Company: Shivam Singh
 - Location: India
-- Score: 10/10
-- Why: Gen AI/LLM is related to Data Science and LLM.
-- Link: https://internshala.com/internship/detail/work-from-home-gen-ai-llm-internship-at-resolute-ai-software-private-limited1773115793
+- Score: 7/10
+- Why: Fallback ranking (LLM JSON parse failed).
+- Link: https://internshala.com/internship/detail/work-from-home-data-science-internship-at-shivam-singh1773392549
 
-## Generative AI (Intent To Hire)
+## Machine Learning
 - Source: Internshala
-- Company: EROEI Tech Private Limited
+- Company: Symonis
 - Location: India
-- Score: 9/10
-- Why: Generative AI is related to Data Science and LLM.
-- Link: https://internshala.com/internship/detail/generative-ai-intent-to-hire-internship-in-bangalore-at-eroei-tech-private-limited1773293040
+- Score: 7/10
+- Why: Fallback ranking (LLM JSON parse failed).
+- Link: https://internshala.com/internship/detail/work-from-home-machine-learning-internship-at-symonis1773385058
+
+## Machine Learning
+- Source: Internshala
+- Company: Cloud Back
+- Location: India
+- Score: 7/10
+- Why: Fallback ranking (LLM JSON parse failed).
+- Link: https://internshala.com/internship/detail/work-from-home-machine-learning-internship-at-cloud-back1773292957
 
 ## Machine Learning (Modeling + Evaluation)
 - Source: Internshala
 - Company: Primetrade.ai
 - Location: India
-- Score: 9/10
-- Why: Machine Learning is related to Data Science.
+- Score: 7/10
+- Why: Fallback ranking (LLM JSON parse failed).
 - Link: https://internshala.com/internship/detail/work-from-home-machine-learning-modeling-evaluation-internship-at-primetradeai1773287801
 
-## AI/ML Python Developer With Full Stack Developer
+## Data Science
 - Source: Internshala
-- Company: Fine Data Analytics Private Limited
+- Company: Suresh Dani's Classes
 - Location: India
-- Score: 9/10
-- Why: AI/ML Python Developer is related to Data Science.
-- Link: https://internshala.com/internship/detail/ai-ml-python-developer-with-full-stack-developer-internship-in-gurgaon-at-fine-data-analytics-private-limited1773138513
+- Score: 7/10
+- Why: Fallback ranking (LLM JSON parse failed).
+- Link: https://internshala.com/internship/detail/data-science-internship-in-mumbai-at-suresh-danis-classes1773223570
 
-## AI/ML Engineering – Agentic AI Systems
+## Data Science
 - Source: Internshala
-- Company: Guruvai Sciences
+- Company: MCube AI Private Limited
 - Location: India
-- Score: 9/10
-- Why: AI/ML Engineering is related to Data Science.
-- Link: https://internshala.com/internship/detail/work-from-home-ai-ml-engineering--agentic-ai-systems-internship-at-guruvai-sciences1773130839
+- Score: 7/10
+- Why: Fallback ranking (LLM JSON parse failed).
+- Link: https://internshala.com/internship/detail/data-science-internship-in-multiple-locations-at-mcube-ai-private-limited1773207870
 
-## AI/ML Developer
+## Data Analytics
 - Source: Internshala
-- Company: BharatX Genai Private Limited
+- Company: Unnati Enterprises
 - Location: India
-- Score: 9/10
-- Why: AI/ML Developer is related to Data Science.
-- Link: https://internshala.com/internship/detail/ai-ml-developer-internship-in-delhi-at-bharatx-genai-private-limited1773128045
+- Score: 6/10
+- Why: Fallback ranking (LLM JSON parse failed).
+- Link: https://internshala.com/internship/detail/data-analytics-internship-in-multiple-locations-at-unnati-enterprises1773292903
 
-## AI Process Implementor
+## Data Analytics
 - Source: Internshala
-- Company: White & Co
+- Company: Hamari Pahchan NGO
 - Location: India
-- Score: 8/10
-- Why: AI Process Implementor is related to Data Science and Machine Learning.
-- Link: https://internshala.com/internship/detail/ai-process-implementor-internship-in-coimbatore-at-white-co1772705282
-
-## AI Agent Development
-- Source: Internshala
-- Company: Vriddhikar Society
-- Location: India
-- Score: 8/10
-- Why: AI Agent Development is related to Data Science and Machine Learning.
-- Link: https://internshala.com/internship/detail/work-from-home-ai-agent-development-internship-at-vriddhikar-society1773290367
+- Score: 6/10
+- Why: Fallback ranking (LLM JSON parse failed).
+- Link: https://internshala.com/internship/detail/data-analytics-internship-in-delhi-at-hamari-pahchan-ngo1773042469
