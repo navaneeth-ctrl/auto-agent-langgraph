@@ -1,65 +1,65 @@
-# Internship Intelligence Digest — 2026-03-12
-
-## Generative AI (Intent To Hire)
-- Source: Internshala
-- Company: EROEI Tech Private Limited
-- Location: India
-- Score: 8/10
-- Why: Generative AI is a subfield of AI and ML
-- Link: https://internshala.com/internship/detail/generative-ai-intent-to-hire-internship-in-bangalore-at-eroei-tech-private-limited1773293040
+# Internship Intelligence Digest — 2026-03-13
 
 ## AI Process Implementor
 - Source: Internshala
 - Company: White & Co
 - Location: India
-- Score: 8/10
-- Why: AI Process Implementor is a job that involves AI and ML
+- Score: 9/10
+- Why: AI, Python, SQL
 - Link: https://internshala.com/internship/detail/ai-process-implementor-internship-in-coimbatore-at-white-co1772705282
 
 ## AI Agent Development
 - Source: Internshala
 - Company: Vriddhikar Society
 - Location: India
-- Score: 8/10
-- Why: AI Agent Development is a job that involves AI and ML
+- Score: 9/10
+- Why: AI Agent Development, Python
 - Link: https://internshala.com/internship/detail/work-from-home-ai-agent-development-internship-at-vriddhikar-society1773290367
 
-## Artificial Intelligence (AI)
+## Generative AI (Intent To Hire)
 - Source: Internshala
-- Company: Storybizz Media Private Limited
+- Company: EROEI Tech Private Limited
 - Location: India
-- Score: 8/10
-- Why: Artificial Intelligence (AI) is a field that uses ML
-- Link: https://internshala.com/internship/detail/artificial-intelligence-ai-internship-in-kolkata-at-storybizz-media-private-limited1772454731
+- Score: 9/10
+- Why: Generative AI, Python
+- Link: https://internshala.com/internship/detail/generative-ai-intent-to-hire-internship-in-bangalore-at-eroei-tech-private-limited1773293040
 
-## Artificial Intelligence (AI)
+## Machine Learning (Modeling + Evaluation)
 - Source: Internshala
-- Company: Irizpro Learning Solutions
+- Company: Primetrade.ai
 - Location: India
-- Score: 8/10
-- Why: Artificial Intelligence (AI) is a field that uses ML
-- Link: https://internshala.com/internship/detail/artificial-intelligence-ai-internship-in-pune-at-irizpro-learning-solutions1773307182
+- Score: 9/10
+- Why: Machine Learning, Python
+- Link: https://internshala.com/internship/detail/work-from-home-machine-learning-modeling-evaluation-internship-at-primetradeai1773287801
 
-## Artificial Intelligence (AI)
+## AI Agent Development
 - Source: Internshala
-- Company: AmRit Hub Private Limited
+- Company: Vexocore IT Services Private Limited
 - Location: India
-- Score: 8/10
-- Why: Artificial Intelligence (AI) is a field that uses ML
-- Link: https://internshala.com/internship/detail/part-time-artificial-intelligence-ai-internship-in-kolkata-at-amrit-hub-private-limited1773224255
+- Score: 9/10
+- Why: AI Agent Development, Python
+- Link: https://internshala.com/internship/detail/work-from-home-ai-agent-development-internship-at-vexocore-it-services-private-limited1773264773
 
-## Python Development
+## AI/ML Python Developer With Full Stack Developer
 - Source: Internshala
-- Company: Suresh Dani's Classes
+- Company: Fine Data Analytics Private Limited
 - Location: India
-- Score: 8/10
-- Why: Python Development is a skill used in ML and AI
-- Link: https://internshala.com/internship/detail/python-development-internship-in-mumbai-at-suresh-danis-classes1773140483
+- Score: 9/10
+- Why: AI/ML Python Developer, Python
+- Link: https://internshala.com/internship/detail/ai-ml-python-developer-with-full-stack-developer-internship-in-gurgaon-at-fine-data-analytics-private-limited1773138513
 
-## AI Training Development
+## AI/ML Engineering – Agentic AI Systems
 - Source: Internshala
-- Company: Ryvane Security
+- Company: Guruvai Sciences
 - Location: India
-- Score: 8/10
-- Why: AI Training Development is a job that involves AI and ML
-- Link: https://internshala.com/internship/detail/work-from-home-part-time-ai-training-development-internship-at-ryvane-security1773331482
+- Score: 9/10
+- Why: AI/ML Engineering, Python
+- Link: https://internshala.com/internship/detail/work-from-home-ai-ml-engineering--agentic-ai-systems-internship-at-guruvai-sciences1773130839
+
+## AI/ML Developer
+- Source: Internshala
+- Company: BharatX Genai Private Limited
+- Location: India
+- Score: 9/10
+- Why: AI/ML Developer, Python
+- Link: https://internshala.com/internship/detail/ai-ml-developer-internship-in-delhi-at-bharatx-genai-private-limited1773128045
