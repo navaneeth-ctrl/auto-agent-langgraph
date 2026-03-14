@@ -1,35 +1,11 @@
 # Internship Intelligence Digest — 2026-03-14
 
-## AI Process Implementor
-- Source: Internshala
-- Company: White & Co
-- Location: India
-- Score: 9/10
-- Why: Relevant to AI and Data Science
-- Link: https://internshala.com/internship/detail/ai-process-implementor-internship-in-coimbatore-at-white-co1772705282
-
-## Data Engineering
-- Source: Internshala
-- Company: Rebel Foods Private Limited
-- Location: India
-- Score: 9/10
-- Why: Relevant to Data Engineering
-- Link: https://internshala.com/internship/detail/data-engineering-internship-in-mumbai-at-rebel-foods-private-limited1773316175
-
-## Artificial Intelligence (AI)
-- Source: Internshala
-- Company: AmRit Hub Private Limited
-- Location: India
-- Score: 9/10
-- Why: Relevant to Artificial Intelligence
-- Link: https://internshala.com/internship/detail/part-time-artificial-intelligence-ai-internship-in-kolkata-at-amrit-hub-private-limited1773224255
-
 ## Data Science
 - Source: Internshala
 - Company: MCube AI Private Limited
 - Location: India
 - Score: 9/10
-- Why: Relevant to Data Science
+- Why: Relevance to Data Science, ML, NLP, LLM, Python, SQL: 9
 - Link: https://internshala.com/internship/detail/data-science-internship-in-multiple-locations-at-mcube-ai-private-limited1773207870
 
 ## Data Science Mentor
@@ -37,7 +13,7 @@
 - Company: DevTown
 - Location: India
 - Score: 9/10
-- Why: Relevant to Data Science Mentorship
+- Why: Relevance to Data Science, ML, NLP, LLM, Python, SQL: 9
 - Link: https://internshala.com/internship/detail/work-from-home-data-science-mentor-internship-at-devtown1773426551
 
 ## Machine Learning
@@ -45,7 +21,7 @@
 - Company: Diffzene
 - Location: India
 - Score: 9/10
-- Why: Relevant to Machine Learning
+- Why: Relevance to Data Science, ML, NLP, LLM, Python, SQL: 9
 - Link: https://internshala.com/internship/detail/work-from-home-machine-learning-internship-at-diffzene1773417771
 
 ## Machine Learning
@@ -53,13 +29,37 @@
 - Company: Hooman Digital LLP
 - Location: India
 - Score: 9/10
-- Why: Relevant to Machine Learning
+- Why: Relevance to Data Science, ML, NLP, LLM, Python, SQL: 9
 - Link: https://internshala.com/internship/detail/work-from-home-machine-learning-internship-at-hooman-digital-llp1773411028
 
-## Gen AI/LLM
+## Machine Learning
 - Source: Internshala
-- Company: Resolute AI Software Private Limited
+- Company: Symonis
 - Location: India
 - Score: 9/10
-- Why: Relevant to Gen AI/LLM
-- Link: https://internshala.com/internship/detail/work-from-home-gen-ai-llm-internship-at-resolute-ai-software-private-limited1773115793
+- Why: Relevance to Data Science, ML, NLP, LLM, Python, SQL: 9
+- Link: https://internshala.com/internship/detail/work-from-home-machine-learning-internship-at-symonis1773385058
+
+## Machine Learning
+- Source: Internshala
+- Company: Cloud Back
+- Location: India
+- Score: 9/10
+- Why: Relevance to Data Science, ML, NLP, LLM, Python, SQL: 9
+- Link: https://internshala.com/internship/detail/work-from-home-machine-learning-internship-at-cloud-back1773292957
+
+## Machine Learning (Modeling + Evaluation)
+- Source: Internshala
+- Company: Primetrade.ai
+- Location: India
+- Score: 9/10
+- Why: Relevance to Data Science, ML, NLP, LLM, Python, SQL: 9
+- Link: https://internshala.com/internship/detail/work-from-home-machine-learning-modeling-evaluation-internship-at-primetradeai1773287801
+
+## AI/ML Python Developer With Full Stack Developer
+- Source: Internshala
+- Company: Fine Data Analytics Private Limited
+- Location: India
+- Score: 9/10
+- Why: Relevance to Data Science, ML, NLP, LLM, Python, SQL: 9
+- Link: https://internshala.com/internship/detail/ai-ml-python-developer-with-full-stack-developer-internship-in-gurgaon-at-fine-data-analytics-private-limited1773138513
