@@ -1,65 +1,65 @@
 # Internship Intelligence Digest — 2026-03-14
 
+## AI Process Implementor
+- Source: Internshala
+- Company: White & Co
+- Location: India
+- Score: 9/10
+- Why: Relevant to AI and Data Science
+- Link: https://internshala.com/internship/detail/ai-process-implementor-internship-in-coimbatore-at-white-co1772705282
+
+## Data Engineering
+- Source: Internshala
+- Company: Rebel Foods Private Limited
+- Location: India
+- Score: 9/10
+- Why: Relevant to Data Engineering
+- Link: https://internshala.com/internship/detail/data-engineering-internship-in-mumbai-at-rebel-foods-private-limited1773316175
+
+## Artificial Intelligence (AI)
+- Source: Internshala
+- Company: AmRit Hub Private Limited
+- Location: India
+- Score: 9/10
+- Why: Relevant to Artificial Intelligence
+- Link: https://internshala.com/internship/detail/part-time-artificial-intelligence-ai-internship-in-kolkata-at-amrit-hub-private-limited1773224255
+
 ## Data Science
 - Source: Internshala
 - Company: MCube AI Private Limited
 - Location: India
-- Score: 10/10
-- Why: Relevance to Data Science, ML, NLP, LLM, Python, SQL is high
+- Score: 9/10
+- Why: Relevant to Data Science
 - Link: https://internshala.com/internship/detail/data-science-internship-in-multiple-locations-at-mcube-ai-private-limited1773207870
+
+## Data Science Mentor
+- Source: Internshala
+- Company: DevTown
+- Location: India
+- Score: 9/10
+- Why: Relevant to Data Science Mentorship
+- Link: https://internshala.com/internship/detail/work-from-home-data-science-mentor-internship-at-devtown1773426551
 
 ## Machine Learning
 - Source: Internshala
 - Company: Diffzene
 - Location: India
-- Score: 10/10
-- Why: Relevance to Data Science, ML, NLP, LLM, Python, SQL is high
+- Score: 9/10
+- Why: Relevant to Machine Learning
 - Link: https://internshala.com/internship/detail/work-from-home-machine-learning-internship-at-diffzene1773417771
 
 ## Machine Learning
 - Source: Internshala
 - Company: Hooman Digital LLP
 - Location: India
-- Score: 10/10
-- Why: Relevance to Data Science, ML, NLP, LLM, Python, SQL is high
+- Score: 9/10
+- Why: Relevant to Machine Learning
 - Link: https://internshala.com/internship/detail/work-from-home-machine-learning-internship-at-hooman-digital-llp1773411028
 
-## Machine Learning
+## Gen AI/LLM
 - Source: Internshala
-- Company: Symonis
+- Company: Resolute AI Software Private Limited
 - Location: India
-- Score: 10/10
-- Why: Relevance to Data Science, ML, NLP, LLM, Python, SQL is high
-- Link: https://internshala.com/internship/detail/work-from-home-machine-learning-internship-at-symonis1773385058
-
-## Machine Learning
-- Source: Internshala
-- Company: Cloud Back
-- Location: India
-- Score: 10/10
-- Why: Relevance to Data Science, ML, NLP, LLM, Python, SQL is high
-- Link: https://internshala.com/internship/detail/work-from-home-machine-learning-internship-at-cloud-back1773292957
-
-## Machine Learning (Modeling + Evaluation)
-- Source: Internshala
-- Company: Primetrade.ai
-- Location: India
-- Score: 10/10
-- Why: Relevance to Data Science, ML, NLP, LLM, Python, SQL is high
-- Link: https://internshala.com/internship/detail/work-from-home-machine-learning-modeling-evaluation-internship-at-primetradeai1773287801
-
-## AI/ML Python Developer With Full Stack Developer
-- Source: Internshala
-- Company: Fine Data Analytics Private Limited
-- Location: India
-- Score: 10/10
-- Why: Relevance to Data Science, ML, NLP, LLM, Python, SQL is high
-- Link: https://internshala.com/internship/detail/ai-ml-python-developer-with-full-stack-developer-internship-in-gurgaon-at-fine-data-analytics-private-limited1773138513
-
-## AI/ML Developer
-- Source: Internshala
-- Company: BharatX Genai Private Limited
-- Location: India
-- Score: 10/10
-- Why: Relevance to Data Science, ML, NLP, LLM, Python, SQL is high
-- Link: https://internshala.com/internship/detail/ai-ml-developer-internship-in-delhi-at-bharatx-genai-private-limited1773128045
+- Score: 9/10
+- Why: Relevant to Gen AI/LLM
+- Link: https://internshala.com/internship/detail/work-from-home-gen-ai-llm-internship-at-resolute-ai-software-private-limited1773115793
