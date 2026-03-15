@@ -1,65 +1,65 @@
 # Internship Intelligence Digest — 2026-03-15
 
+## Data Engineering
+- Source: Internshala
+- Company: Rebel Foods Private Limited
+- Location: India
+- Score: 9/10
+- Why: Relevance to Data Engineering
+- Link: https://internshala.com/internship/detail/data-engineering-internship-in-mumbai-at-rebel-foods-private-limited1773316175
+
+## Data Engineering
+- Source: Internshala
+- Company: Rebel Foods Private Limited
+- Location: India
+- Score: 9/10
+- Why: Relevance to Data Engineering
+- Link: https://internshala.com/internship/detail/data-engineering-internship-in-mumbai-at-rebel-foods-private-limited1773128853
+
+## Artificial Intelligence (AI)
+- Source: Internshala
+- Company: AmRit Hub Private Limited
+- Location: India
+- Score: 9/10
+- Why: Relevance to Artificial Intelligence (AI)
+- Link: https://internshala.com/internship/detail/part-time-artificial-intelligence-ai-internship-in-kolkata-at-amrit-hub-private-limited1773224255
+
+## AI-Native Product Management Intern
+- Source: Internshala
+- Company: DeHaat
+- Location: India
+- Score: 9/10
+- Why: Relevance to AI-Native Product Management Intern
+- Link: https://internshala.com/internship/detail/ai-native-product-management-intern-internship-in-haryana-at-dehaat1773135728
+
+## AI Research (NARI)
+- Source: Internshala
+- Company: Namaah Pvt Ltd
+- Location: India
+- Score: 9/10
+- Why: Relevance to AI Research (NARI)
+- Link: https://internshala.com/internship/detail/work-from-home-ai-research-nari-internship-at-namaah-pvt-ltd1772775317
+
 ## Data Science
 - Source: Internshala
 - Company: MCube AI Private Limited
 - Location: India
-- Score: 7/10
-- Why: Fallback ranking (LLM JSON parse failed).
+- Score: 9/10
+- Why: Relevance to Data Science
 - Link: https://internshala.com/internship/detail/data-science-internship-in-multiple-locations-at-mcube-ai-private-limited1773207870
 
-## Machine Learning
-- Source: Internshala
-- Company: Symonis
-- Location: India
-- Score: 7/10
-- Why: Fallback ranking (LLM JSON parse failed).
-- Link: https://internshala.com/internship/detail/work-from-home-machine-learning-internship-at-symonis1773553455
-
-## Data Science Mentor
-- Source: Internshala
-- Company: DevTown
-- Location: India
-- Score: 7/10
-- Why: Fallback ranking (LLM JSON parse failed).
-- Link: https://internshala.com/internship/detail/work-from-home-data-science-mentor-internship-at-devtown1773426551
-
-## Machine Learning
-- Source: Internshala
-- Company: Diffzene
-- Location: India
-- Score: 7/10
-- Why: Fallback ranking (LLM JSON parse failed).
-- Link: https://internshala.com/internship/detail/work-from-home-machine-learning-internship-at-diffzene1773417771
-
-## Machine Learning
-- Source: Internshala
-- Company: Hooman Digital LLP
-- Location: India
-- Score: 7/10
-- Why: Fallback ranking (LLM JSON parse failed).
-- Link: https://internshala.com/internship/detail/work-from-home-machine-learning-internship-at-hooman-digital-llp1773411028
-
-## Machine Learning
-- Source: Internshala
-- Company: Cloud Back
-- Location: India
-- Score: 7/10
-- Why: Fallback ranking (LLM JSON parse failed).
-- Link: https://internshala.com/internship/detail/work-from-home-machine-learning-internship-at-cloud-back1773292957
-
-## Machine Learning (Modeling + Evaluation)
+## Artificial Intelligence (AI)
 - Source: Internshala
 - Company: Primetrade.ai
 - Location: India
-- Score: 7/10
-- Why: Fallback ranking (LLM JSON parse failed).
-- Link: https://internshala.com/internship/detail/work-from-home-machine-learning-modeling-evaluation-internship-at-primetradeai1773287801
+- Score: 9/10
+- Why: Relevance to Artificial Intelligence (AI)
+- Link: https://internshala.com/internship/detail/work-from-home-artificial-intelligence-ai-internship-at-primetradeai1773058189
 
-## Data Science
+## Artificial Intelligence (AI)
 - Source: Internshala
-- Company: Suresh Dani's Classes
+- Company: Relinns Technologies
 - Location: India
-- Score: 7/10
-- Why: Fallback ranking (LLM JSON parse failed).
-- Link: https://internshala.com/internship/detail/data-science-internship-in-mumbai-at-suresh-danis-classes1773223570
+- Score: 9/10
+- Why: Relevance to Artificial Intelligence (AI)
+- Link: https://internshala.com/internship/detail/artificial-intelligence-ai-internship-in-multiple-locations-at-relinns-technologies1773031622
