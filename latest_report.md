@@ -1,65 +1,65 @@
 # Internship Intelligence Digest — 2026-03-15
 
-## AI Research Engineer Intern
+## AI Process Implementor
 - Source: Internshala
-- Company: KronosX AI
+- Company: White & Co
 - Location: India
-- Score: 9/10
-- Why: Relevance to Data Science, ML, NLP, LLM, Python, SQL: 9
-- Link: https://internshala.com/internship/detail/ai-research-engineer-intern-internship-in-bangalore-at-kronosx-ai1773571927
+- Score: 10/10
+- Why: Relevant to AI and Data Science
+- Link: https://internshala.com/internship/detail/ai-process-implementor-internship-in-coimbatore-at-white-co1772705282
 
-## Data Science
+## Artificial Intelligence (AI)
 - Source: Internshala
-- Company: MCube AI Private Limited
+- Company: Plix - The Plant Flix
 - Location: India
-- Score: 9/10
-- Why: Relevance to Data Science, ML, NLP, LLM, Python, SQL: 9
-- Link: https://internshala.com/internship/detail/data-science-internship-in-multiple-locations-at-mcube-ai-private-limited1773207870
+- Score: 10/10
+- Why: Relevant to AI and Data Science
+- Link: https://internshala.com/internship/detail/artificial-intelligence-ai-internship-in-mumbai-at-plix-the-plant-flix1773571496
 
-## Machine Learning
+## Artificial Intelligence (AI)
 - Source: Internshala
-- Company: Symonis
+- Company: AmRit Hub Private Limited
 - Location: India
-- Score: 9/10
-- Why: Relevance to Data Science, ML, NLP, LLM, Python, SQL: 9
-- Link: https://internshala.com/internship/detail/work-from-home-machine-learning-internship-at-symonis1773553455
+- Score: 10/10
+- Why: Relevant to AI and Data Science
+- Link: https://internshala.com/internship/detail/part-time-artificial-intelligence-ai-internship-in-kolkata-at-amrit-hub-private-limited1773224255
 
-## Machine Learning
+## Artificial Intelligence (AI)
 - Source: Internshala
-- Company: Diffzene
+- Company: Primetrade.ai
 - Location: India
-- Score: 9/10
-- Why: Relevance to Data Science, ML, NLP, LLM, Python, SQL: 9
-- Link: https://internshala.com/internship/detail/work-from-home-machine-learning-internship-at-diffzene1773417771
+- Score: 10/10
+- Why: Relevant to AI and Data Science
+- Link: https://internshala.com/internship/detail/work-from-home-artificial-intelligence-ai-internship-at-primetradeai1773058189
 
-## Machine Learning
+## Artificial Intelligence (AI)
 - Source: Internshala
-- Company: Hooman Digital LLP
+- Company: Gharpayy
 - Location: India
-- Score: 9/10
-- Why: Relevance to Data Science, ML, NLP, LLM, Python, SQL: 9
-- Link: https://internshala.com/internship/detail/work-from-home-machine-learning-internship-at-hooman-digital-llp1773411028
+- Score: 10/10
+- Why: Relevant to AI and Data Science
+- Link: https://internshala.com/internship/detail/work-from-home-part-time-artificial-intelligence-ai-internship-at-gharpayy1773471822
+
+## Artificial Intelligence (AI)
+- Source: Internshala
+- Company: Unessa Foundation
+- Location: India
+- Score: 10/10
+- Why: Relevant to AI and Data Science
+- Link: https://internshala.com/internship/detail/work-from-home-part-time-artificial-intelligence-ai-internship-at-unessa-foundation1773399504
 
 ## Generative AI (Intent To Hire)
 - Source: Internshala
 - Company: EROEI Tech Private Limited
 - Location: India
-- Score: 9/10
-- Why: Relevance to Data Science, ML, NLP, LLM, Python, SQL: 9
+- Score: 10/10
+- Why: Relevant to AI and Data Science
 - Link: https://internshala.com/internship/detail/generative-ai-intent-to-hire-internship-in-bangalore-at-eroei-tech-private-limited1773293040
 
-## Machine Learning
+## AI Research Engineer Intern
 - Source: Internshala
-- Company: Cloud Back
+- Company: KronosX AI
 - Location: India
 - Score: 9/10
-- Why: Relevance to Data Science, ML, NLP, LLM, Python, SQL: 9
-- Link: https://internshala.com/internship/detail/work-from-home-machine-learning-internship-at-cloud-back1773292957
-
-## Machine Learning (Modeling + Evaluation)
-- Source: Internshala
-- Company: Primetrade.ai
-- Location: India
-- Score: 9/10
-- Why: Relevance to Data Science, ML, NLP, LLM, Python, SQL: 9
-- Link: https://internshala.com/internship/detail/work-from-home-machine-learning-modeling-evaluation-internship-at-primetradeai1773287801
+- Why: Relevant to AI Research Engineer Intern
+- Link: https://internshala.com/internship/detail/ai-research-engineer-intern-internship-in-bangalore-at-kronosx-ai1773571927
