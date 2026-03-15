@@ -1,65 +1,65 @@
 # Internship Intelligence Digest — 2026-03-15
 
-## AI Process Implementor
+## Data Science
 - Source: Internshala
-- Company: White & Co
+- Company: MCube AI Private Limited
 - Location: India
 - Score: 10/10
-- Why: Relevant to AI and Data Science
-- Link: https://internshala.com/internship/detail/ai-process-implementor-internship-in-coimbatore-at-white-co1772705282
+- Why: Data Science is directly related to Data Science
+- Link: https://internshala.com/internship/detail/data-science-internship-in-multiple-locations-at-mcube-ai-private-limited1773207870
 
-## Artificial Intelligence (AI)
+## Data Engineering
 - Source: Internshala
-- Company: Plix - The Plant Flix
+- Company: Rebel Foods Private Limited
 - Location: India
-- Score: 10/10
-- Why: Relevant to AI and Data Science
-- Link: https://internshala.com/internship/detail/artificial-intelligence-ai-internship-in-mumbai-at-plix-the-plant-flix1773571496
+- Score: 9/10
+- Why: Data Engineering is related to Data Science
+- Link: https://internshala.com/internship/detail/data-engineering-internship-in-mumbai-at-rebel-foods-private-limited1773316175
 
-## Artificial Intelligence (AI)
+## Data Engineering
 - Source: Internshala
-- Company: AmRit Hub Private Limited
+- Company: Rebel Foods Private Limited
 - Location: India
-- Score: 10/10
-- Why: Relevant to AI and Data Science
-- Link: https://internshala.com/internship/detail/part-time-artificial-intelligence-ai-internship-in-kolkata-at-amrit-hub-private-limited1773224255
-
-## Artificial Intelligence (AI)
-- Source: Internshala
-- Company: Primetrade.ai
-- Location: India
-- Score: 10/10
-- Why: Relevant to AI and Data Science
-- Link: https://internshala.com/internship/detail/work-from-home-artificial-intelligence-ai-internship-at-primetradeai1773058189
-
-## Artificial Intelligence (AI)
-- Source: Internshala
-- Company: Gharpayy
-- Location: India
-- Score: 10/10
-- Why: Relevant to AI and Data Science
-- Link: https://internshala.com/internship/detail/work-from-home-part-time-artificial-intelligence-ai-internship-at-gharpayy1773471822
-
-## Artificial Intelligence (AI)
-- Source: Internshala
-- Company: Unessa Foundation
-- Location: India
-- Score: 10/10
-- Why: Relevant to AI and Data Science
-- Link: https://internshala.com/internship/detail/work-from-home-part-time-artificial-intelligence-ai-internship-at-unessa-foundation1773399504
-
-## Generative AI (Intent To Hire)
-- Source: Internshala
-- Company: EROEI Tech Private Limited
-- Location: India
-- Score: 10/10
-- Why: Relevant to AI and Data Science
-- Link: https://internshala.com/internship/detail/generative-ai-intent-to-hire-internship-in-bangalore-at-eroei-tech-private-limited1773293040
+- Score: 9/10
+- Why: Data Engineering is related to Data Science
+- Link: https://internshala.com/internship/detail/data-engineering-internship-in-mumbai-at-rebel-foods-private-limited1773128853
 
 ## AI Research Engineer Intern
 - Source: Internshala
 - Company: KronosX AI
 - Location: India
 - Score: 9/10
-- Why: Relevant to AI Research Engineer Intern
+- Why: AI Research Engineer Intern is related to AI and ML
 - Link: https://internshala.com/internship/detail/ai-research-engineer-intern-internship-in-bangalore-at-kronosx-ai1773571927
+
+## Machine Learning
+- Source: Internshala
+- Company: Symonis
+- Location: India
+- Score: 9/10
+- Why: Machine Learning is related to ML
+- Link: https://internshala.com/internship/detail/work-from-home-machine-learning-internship-at-symonis1773553455
+
+## Machine Learning
+- Source: Internshala
+- Company: Diffzene
+- Location: India
+- Score: 9/10
+- Why: Machine Learning is related to ML
+- Link: https://internshala.com/internship/detail/work-from-home-machine-learning-internship-at-diffzene1773417771
+
+## Machine Learning
+- Source: Internshala
+- Company: Hooman Digital LLP
+- Location: India
+- Score: 9/10
+- Why: Machine Learning is related to ML
+- Link: https://internshala.com/internship/detail/work-from-home-machine-learning-internship-at-hooman-digital-llp1773411028
+
+## Machine Learning
+- Source: Internshala
+- Company: Cloud Back
+- Location: India
+- Score: 9/10
+- Why: Machine Learning is related to ML
+- Link: https://internshala.com/internship/detail/work-from-home-machine-learning-internship-at-cloud-back1773292957
