@@ -1,65 +1,65 @@
 # Internship Intelligence Digest — 2026-03-15
 
-## Data Engineering
+## AI/ML Python Developer With Full Stack Developer
 - Source: Internshala
-- Company: Rebel Foods Private Limited
+- Company: Fine Data Analytics Private Limited
 - Location: India
 - Score: 9/10
-- Why: Data Engineering is related to Data Science and ML
-- Link: https://internshala.com/internship/detail/data-engineering-internship-in-mumbai-at-rebel-foods-private-limited1773316175
+- Why: AI/ML Python Developer With Full Stack Developer
+- Link: https://internshala.com/internship/detail/ai-ml-python-developer-with-full-stack-developer-internship-in-gurgaon-at-fine-data-analytics-private-limited1773138513
 
-## Data Engineering
+## AI/ML Engineering – Agentic AI Systems
 - Source: Internshala
-- Company: Rebel Foods Private Limited
+- Company: Guruvai Sciences
 - Location: India
 - Score: 9/10
-- Why: Data Engineering is related to Data Science and ML
-- Link: https://internshala.com/internship/detail/data-engineering-internship-in-mumbai-at-rebel-foods-private-limited1773128853
+- Why: AI/ML Engineering – Agentic AI Systems
+- Link: https://internshala.com/internship/detail/work-from-home-ai-ml-engineering--agentic-ai-systems-internship-at-guruvai-sciences1773130839
+
+## AI/ML Developer
+- Source: Internshala
+- Company: BharatX Genai Private Limited
+- Location: India
+- Score: 9/10
+- Why: AI/ML Developer
+- Link: https://internshala.com/internship/detail/ai-ml-developer-internship-in-delhi-at-bharatx-genai-private-limited1773128045
+
+## Gen AI/LLM
+- Source: Internshala
+- Company: Resolute AI Software Private Limited
+- Location: India
+- Score: 9/10
+- Why: Gen AI/LLM
+- Link: https://internshala.com/internship/detail/work-from-home-gen-ai-llm-internship-at-resolute-ai-software-private-limited1773115793
+
+## AI Engineer Intern
+- Source: Internshala
+- Company: Conversely
+- Location: India
+- Score: 9/10
+- Why: AI Engineer Intern
+- Link: https://internshala.com/internship/detail/ai-engineer-intern-internship-in-delhi-at-conversely1773052329
 
 ## Data Science
 - Source: Internshala
 - Company: MCube AI Private Limited
 - Location: India
-- Score: 9/10
-- Why: Data Science is related to Data Science and ML
+- Score: 8/10
+- Why: Data Science
 - Link: https://internshala.com/internship/detail/data-science-internship-in-multiple-locations-at-mcube-ai-private-limited1773207870
-
-## Data Science Mentor
-- Source: Internshala
-- Company: DevTown
-- Location: India
-- Score: 9/10
-- Why: Data Science Mentor is related to Data Science and ML
-- Link: https://internshala.com/internship/detail/work-from-home-data-science-mentor-internship-at-devtown1773426551
 
 ## Machine Learning
 - Source: Internshala
 - Company: Diffzene
 - Location: India
-- Score: 9/10
-- Why: Machine Learning is related to ML
+- Score: 8/10
+- Why: Machine Learning
 - Link: https://internshala.com/internship/detail/work-from-home-machine-learning-internship-at-diffzene1773417771
 
 ## Machine Learning
 - Source: Internshala
 - Company: Hooman Digital LLP
 - Location: India
-- Score: 9/10
-- Why: Machine Learning is related to ML
+- Score: 8/10
+- Why: Machine Learning
 - Link: https://internshala.com/internship/detail/work-from-home-machine-learning-internship-at-hooman-digital-llp1773411028
-
-## Machine Learning
-- Source: Internshala
-- Company: Symonis
-- Location: India
-- Score: 9/10
-- Why: Machine Learning is related to ML
-- Link: https://internshala.com/internship/detail/work-from-home-machine-learning-internship-at-symonis1773385058
-
-## Machine Learning
-- Source: Internshala
-- Company: Cloud Back
-- Location: India
-- Score: 9/10
-- Why: Machine Learning is related to ML
-- Link: https://internshala.com/internship/detail/work-from-home-machine-learning-internship-at-cloud-back1773292957
