@@ -1,27 +1,11 @@
 # Internship Intelligence Digest — 2026-03-16
 
-## Data Science
-- Source: Internshala
-- Company: MCube AI Private Limited
-- Location: India
-- Score: 10/10
-- Why: Data Science is related to Data Science.
-- Link: https://internshala.com/internship/detail/data-science-internship-in-multiple-locations-at-mcube-ai-private-limited1773207870
-
-## AI Process Implementor
-- Source: Internshala
-- Company: White & Co
-- Location: India
-- Score: 9/10
-- Why: AI Process Implementor is related to Data Science and ML.
-- Link: https://internshala.com/internship/detail/ai-process-implementor-internship-in-coimbatore-at-white-co1772705282
-
 ## Data Engineering
 - Source: Internshala
 - Company: Rebel Foods Private Limited
 - Location: India
 - Score: 9/10
-- Why: Data Engineering is related to Data Science.
+- Why: Relevance to Data Science, ML, NLP, LLM, Python, SQL: Data Engineering
 - Link: https://internshala.com/internship/detail/data-engineering-internship-in-mumbai-at-rebel-foods-private-limited1773316175
 
 ## Data Engineering
@@ -29,37 +13,53 @@
 - Company: Rebel Foods Private Limited
 - Location: India
 - Score: 9/10
-- Why: Data Engineering is related to Data Science.
+- Why: Relevance to Data Science, ML, NLP, LLM, Python, SQL: Data Engineering
 - Link: https://internshala.com/internship/detail/data-engineering-internship-in-mumbai-at-rebel-foods-private-limited1773128853
 
-## Artificial Intelligence (AI)
+## Data Engineer (Data Engineer/Data Collection)
 - Source: Internshala
-- Company: AmRit Hub Private Limited
+- Company: Maiway Technologies
 - Location: India
 - Score: 9/10
-- Why: Artificial Intelligence (AI) is related to Data Science and ML.
-- Link: https://internshala.com/internship/detail/part-time-artificial-intelligence-ai-internship-in-kolkata-at-amrit-hub-private-limited1773224255
+- Why: Relevance to Data Science, ML, NLP, LLM, Python, SQL: Data Engineer (Data Engineer/Data Collection)
+- Link: https://internshala.com/internship/detail/work-from-home-data-engineer-data-engineer-data-collection-internship-at-maiway-technologies1773639260
 
-## Artificial Intelligence (AI)
+## Machine Learning
 - Source: Internshala
-- Company: Primetrade.ai
+- Company: Diffzene
 - Location: India
 - Score: 9/10
-- Why: Artificial Intelligence (AI) is related to Data Science and ML.
-- Link: https://internshala.com/internship/detail/work-from-home-artificial-intelligence-ai-internship-at-primetradeai1773058189
+- Why: Relevance to Data Science, ML, NLP, LLM, Python, SQL: Machine Learning
+- Link: https://internshala.com/internship/detail/work-from-home-machine-learning-internship-at-diffzene1773636664
 
-## AI Automation
+## Machine Learning
 - Source: Internshala
-- Company: OyeLabs
+- Company: Symonis
 - Location: India
 - Score: 9/10
-- Why: AI Automation is related to Data Science and ML.
-- Link: https://internshala.com/internship/detail/work-from-home-ai-automation-internship-at-oyelabs1773291663
+- Why: Relevance to Data Science, ML, NLP, LLM, Python, SQL: Machine Learning
+- Link: https://internshala.com/internship/detail/work-from-home-machine-learning-internship-at-symonis1773553455
 
-## AI Agent Development
+## Data Science Mentor
 - Source: Internshala
-- Company: Techphoton Solutions Private Limited
+- Company: DevTown
 - Location: India
 - Score: 9/10
-- Why: AI Agent Development is related to Data Science and ML.
-- Link: https://internshala.com/internship/detail/work-from-home-ai-agent-development-internship-at-techphoton-solutions-private-limited1773545644
+- Why: Relevance to Data Science, ML, NLP, LLM, Python, SQL: Data Science Mentor
+- Link: https://internshala.com/internship/detail/work-from-home-data-science-mentor-internship-at-devtown1773426551
+
+## Machine Learning
+- Source: Internshala
+- Company: Hooman Digital LLP
+- Location: India
+- Score: 9/10
+- Why: Relevance to Data Science, ML, NLP, LLM, Python, SQL: Machine Learning
+- Link: https://internshala.com/internship/detail/work-from-home-machine-learning-internship-at-hooman-digital-llp1773411028
+
+## Machine Learning
+- Source: Internshala
+- Company: Cloud Back
+- Location: India
+- Score: 9/10
+- Why: Relevance to Data Science, ML, NLP, LLM, Python, SQL: Machine Learning
+- Link: https://internshala.com/internship/detail/work-from-home-machine-learning-internship-at-cloud-back1773292957
