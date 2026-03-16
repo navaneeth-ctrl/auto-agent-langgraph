@@ -1,65 +1,65 @@
 # Internship Intelligence Digest — 2026-03-16
 
-## AI-Native Product Management Intern
+## Software Engineer Trainee (Full Stack + AI) – Internship With PPO
 - Source: Internshala
-- Company: DeHaat
+- Company: Intain Technologies Private Limited
 - Location: India
-- Score: 7/10
-- Why: Fallback ranking (LLM JSON parse failed).
-- Link: https://internshala.com/internship/detail/ai-native-product-management-intern-internship-in-haryana-at-dehaat1773135728
+- Score: 9/10
+- Why: Relevant to AI, Python, and Full Stack.
+- Link: https://internshala.com/internship/detail/software-engineer-trainee-full-stack-ai--internship-with-ppo-internship-in-chennai-at-intain-technologies-private-limited1773656319
 
-## Data Science
+## Artificial Intelligence (AI)
 - Source: Internshala
-- Company: MCube AI Private Limited
+- Company: Hamsi Marketing Private Limited
 - Location: India
-- Score: 7/10
-- Why: Fallback ranking (LLM JSON parse failed).
-- Link: https://internshala.com/internship/detail/data-science-internship-in-multiple-locations-at-mcube-ai-private-limited1773207870
+- Score: 8/10
+- Why: Relevant to Data Science, AI, and Python.
+- Link: https://internshala.com/internship/detail/work-from-home-artificial-intelligence-ai-internship-at-hamsi-marketing-private-limited1773643742
 
-## Machine Learning
+## AI Enabled Designer
 - Source: Internshala
-- Company: Diffzene
+- Company: Big Block Theory
 - Location: India
-- Score: 7/10
-- Why: Fallback ranking (LLM JSON parse failed).
-- Link: https://internshala.com/internship/detail/work-from-home-machine-learning-internship-at-diffzene1773636664
+- Score: 8/10
+- Why: Relevant to AI and Python.
+- Link: https://internshala.com/internship/detail/work-from-home-part-time-ai-enabled-designer-internship-at-big-block-theory1773647812
 
-## Machine Learning
+## AI Process Implementor
 - Source: Internshala
-- Company: Symonis
+- Company: White & Co
 - Location: India
-- Score: 7/10
-- Why: Fallback ranking (LLM JSON parse failed).
-- Link: https://internshala.com/internship/detail/work-from-home-machine-learning-internship-at-symonis1773553455
+- Score: 8/10
+- Why: Relevant to AI.
+- Link: https://internshala.com/internship/detail/ai-process-implementor-internship-in-coimbatore-at-white-co1772705282
 
-## Data Science Mentor
+## Project Operations – AI Projects
 - Source: Internshala
-- Company: DevTown
+- Company: ConsultBae
 - Location: India
-- Score: 7/10
-- Why: Fallback ranking (LLM JSON parse failed).
-- Link: https://internshala.com/internship/detail/work-from-home-data-science-mentor-internship-at-devtown1773426551
+- Score: 8/10
+- Why: Relevant to AI.
+- Link: https://internshala.com/internship/detail/work-from-home-project-operations--ai-projects-internship-at-consultbae1773641129
 
-## Machine Learning
+## Project Operations Associate – AI Projects
 - Source: Internshala
-- Company: Hooman Digital LLP
+- Company: ConsultBae
 - Location: India
-- Score: 7/10
-- Why: Fallback ranking (LLM JSON parse failed).
-- Link: https://internshala.com/internship/detail/work-from-home-machine-learning-internship-at-hooman-digital-llp1773411028
+- Score: 8/10
+- Why: Relevant to AI.
+- Link: https://internshala.com/internship/detail/work-from-home-project-operations-associate--ai-projects-internship-at-consultbae1773641051
 
-## Machine Learning
+## AI Magician
 - Source: Internshala
-- Company: Cloud Back
+- Company: GNG Developers
 - Location: India
-- Score: 7/10
-- Why: Fallback ranking (LLM JSON parse failed).
-- Link: https://internshala.com/internship/detail/work-from-home-machine-learning-internship-at-cloud-back1773292957
+- Score: 8/10
+- Why: Relevant to AI.
+- Link: https://internshala.com/internship/detail/ai-magician-internship-in-agra-at-gng-developers1773648996
 
-## Machine Learning (Modeling + Evaluation)
+## AI Agent Development
 - Source: Internshala
-- Company: Primetrade.ai
+- Company: Shardul Singh
 - Location: India
-- Score: 7/10
-- Why: Fallback ranking (LLM JSON parse failed).
-- Link: https://internshala.com/internship/detail/work-from-home-machine-learning-modeling-evaluation-internship-at-primetradeai1773287801
+- Score: 8/10
+- Why: Relevant to AI Agent Development.
+- Link: https://internshala.com/internship/detail/ai-agent-development-internship-in-navi-mumbai-at-shardul-singh1773591793
