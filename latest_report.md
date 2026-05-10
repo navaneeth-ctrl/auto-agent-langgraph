@@ -1,3 +1,3 @@
-# Internship Intelligence Digest — 2026-05-09
+# Internship Intelligence Digest — 2026-05-10
 
 No strong matches today based on your keywords/threshold.
